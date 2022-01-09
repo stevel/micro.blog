@@ -1,0 +1,1298 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Steve Lloyd",
+	"icon": "https://micro.blog/stevelloyd/avatar.jpg",
+	"home_page_url": "https://somenotes.stevelloyd.net/",
+	"feed_url": "https://somenotes.stevelloyd.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://stevelloyd.micro.blog/2022/01/09/evening.html",
+				
+				"content_html": "<p>Evening. 📷 #2022</p>\n\n<p><img src=\"uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Evening. 📷 #2022\n\n<img src=\"uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-01-09T17:12:14+00:00",
+				"url": "https://somenotes.stevelloyd.net/2022/01/09/evening.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2022/01/02/i-put-up.html",
+				
+				"content_html": "<p>I put up a fledgling post on a new &lsquo;still being wrangled&rsquo; <a href=\"https://kinoteki.org\">site</a>.</p>\n",
+				"content_text": "I put up a fledgling post on a new 'still being wrangled' [site](https://kinoteki.org).\n",
+				"date_published": "2022-01-02T01:03:25+00:00",
+				"url": "https://somenotes.stevelloyd.net/2022/01/02/i-put-up.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/12/31/years-end.html",
+				
+				"content_html": "<p>Year&rsquo;s end. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Year's end. 📷 #2021\n\n<img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-31T15:35:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/12/31/years-end.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/12/30/red.html",
+				
+				"content_html": "<p>Red. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Red. 📷 #2021\n\n<img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-30T09:37:00+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/12/30/red.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/12/10/corner.html",
+				
+				"content_html": "<p>Corner. 📷 #2021.</p>\n\n<p><img src=\"uploads/2021/b45a984daa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Corner. 📷 #2021.\n\n<img src=\"uploads/2021/b45a984daa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-10T20:57:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/12/10/corner.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/12/03/203954.html",
+				
+				"content_html": "<p>📷 #1961</p>\n\n<p><img src=\"uploads/2021/12849dac5d.jpg\" width=\"586\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 #1961\n\n\n<img src=\"uploads/2021/12849dac5d.jpg\" width=\"586\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-03T19:39:54+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/12/03/203954.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/11/30/five-sheep-and.html",
+				
+				"content_html": "<p>Five sheep and a tree. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" /></p>\n",
+				"content_text": "Five sheep and a tree. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" />\n",
+				"date_published": "2021-11-30T19:24:34+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/11/30/five-sheep-and.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/11/16/like-a-tory.html",
+				
+				"content_html": "<p>Like a Tory politician in a cash for influence scandal, my past catches up with me…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" /></p>\n",
+				"content_text": "Like a Tory politician in a cash for influence scandal, my past catches up with me…\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" />\n",
+				"date_published": "2021-11-16T20:26:36+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/11/16/like-a-tory.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/11/10/night-walk.html",
+				
+				"content_html": "<p>Night walk. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Night walk. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-10T08:33:35+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/11/10/night-walk.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/10/23/algaey.html",
+				
+				"content_html": "<p>Algae-y. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Algae-y. 📷 #2021\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-23T07:20:31+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/10/23/algaey.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/10/16/omotesando.html",
+				
+				"content_html": "<p>Omotesando. 📷 #2013</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Omotesando. 📷 #2013\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-16T19:25:11+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/10/16/omotesando.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/10/09/against.html",
+				
+				"content_html": "<p>Against. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Against. 📷 #2021\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-09T09:34:04+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/10/09/against.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/10/04/phew-microblog-signal.html",
+				
+				"content_html": "<p>Phew! #microblog, Signal and my current reading material still up…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Phew! #microblog, Signal and my current reading material still up…\n\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-04T21:17:04+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/10/04/phew-microblog-signal.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/10/02/great-to-see.html",
+				
+				"content_html": "<p>Great to see Apple’s M1-based products and continued improvements to phones. But hey, how about a team to develop paper &amp; 3D printers as revolutionary as the LaserWriter was in 1985. With a non-scammy renewables policy.</p>\n",
+				"content_text": "Great to see Apple’s M1-based products and continued improvements to phones. But hey, how about a team to develop paper & 3D printers as revolutionary as the LaserWriter was in 1985. With a non-scammy renewables policy.\n",
+				"date_published": "2021-10-02T00:16:12+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/10/02/great-to-see.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/09/18/framed.html",
+				
+				"content_html": "<p>Framed. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Framed. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-18T07:29:05+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/09/18/framed.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/05/25/kezas-love-for.html",
+				
+				"content_html": "<p>“Keza’s love for the Japanese games industry” — an interview with the video games journalist Keza MacDonald from the すごい Wireframe magazine</p>\n\n<p><a href=\"https://www.raspberrypi.org/blog/kezas-love-for-the-japanese-games-industry/\">www.raspberrypi.org/blog/keza&hellip;</a></p>\n",
+				"content_text": "“Keza’s love for the Japanese games industry” — an interview with the video games journalist Keza MacDonald from the すごい Wireframe magazine \n\n[www.raspberrypi.org/blog/keza...](https://www.raspberrypi.org/blog/kezas-love-for-the-japanese-games-industry/)\n",
+				"date_published": "2021-05-25T14:15:05+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/05/25/kezas-love-for.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/05/20/porthclais-photo.html",
+				
+				"content_html": "<p>Porthclais. #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Porthclais. #photo #2021 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-05-20T22:07:48+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/05/20/porthclais-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/28/moon-reflection-photo.html",
+				
+				"content_html": "<p>Moon, reflection. 📷 #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Moon, reflection. 📷 #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-28T09:01:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/28/moon-reflection-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/21/lions-farts-and.html",
+				
+				"content_html": "<p>Lions, farts and a philosophy lesson—Séamas O’Reilly’s column is funny and touching…</p>\n\n<p><a href=\"https://www.theguardian.com/lifeandstyle/2021/feb/21/seamas-oreilly-our-smart-speaker-turns-out-to-be-the-most-marvellous-babysitter\">www.theguardian.com/lifeandst&hellip;</a></p>\n",
+				"content_text": "Lions, farts and a philosophy lesson—Séamas O’Reilly’s column is funny and touching…\n\n[www.theguardian.com/lifeandst...](https://www.theguardian.com/lifeandstyle/2021/feb/21/seamas-oreilly-our-smart-speaker-turns-out-to-be-the-most-marvellous-babysitter)\n",
+				"date_published": "2021-02-21T18:10:04+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/21/lions-farts-and.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/17/a-longtime-favourite.html",
+				
+				"content_html": "<p>A long-time favourite, NHKWorld’s ‘Document 72 hours’ has a tried and tested formula for observation of people’s lives. Here, a 50-years run coffee stall with a collection of stalwart customers.\nThe sort of video document which captures real lives in their imperfect, messy state. OK it can be a bit mawkish…but wouldn’t get funded in the UK.</p>\n\n<p><a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/4026134/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n",
+				"content_text": "A long-time favourite, NHKWorld’s ‘Document 72 hours’ has a tried and tested formula for observation of people’s lives. Here, a 50-years run coffee stall with a collection of stalwart customers. \nThe sort of video document which captures real lives in their imperfect, messy state. OK it can be a bit mawkish…but wouldn’t get funded in the UK. \n\n[www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/4026134/)\n\n\n",
+				"date_published": "2021-02-17T22:20:15+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/17/a-longtime-favourite.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/16/welltrodden-path-photo.html",
+				
+				"content_html": "<p>Well-trodden path. 📷 #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Well-trodden path. 📷 #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-16T16:37:41+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/16/welltrodden-path-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/13/happy-losar-photo.html",
+				
+				"content_html": "<p>Happy Losar! #photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Happy Losar! #photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-13T10:20:28+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/13/happy-losar-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/10/before-and-after.html",
+				
+				"content_html": "<p>Before and after the snow. #photo #2021 📷</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" /></p>\n",
+				"content_text": "Before and after the snow. #photo #2021 📷\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" />\n",
+				"date_published": "2021-02-10T08:36:38+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/10/before-and-after.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/02/08/after-the-snow.html",
+				
+				"content_html": "<p>After the snow. #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "After the snow. #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-08T08:34:33+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/02/08/after-the-snow.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/01/15/thingswhicharenearyetfar-photo.html",
+				
+				"content_html": "<p>#ThingsWhichAreNearYetFar #photo 2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#ThingsWhichAreNearYetFar #photo 2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-01-15T08:34:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/01/15/thingswhicharenearyetfar-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/01/14/thingswhicharenearyetfar-photo.html",
+				
+				"content_html": "<p>#ThingsWhichAreNearYetFar #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#ThingsWhichAreNearYetFar #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-01-14T09:34:48+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/01/14/thingswhicharenearyetfar-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/01/09/souvenirs-photo.html",
+				
+				"content_html": "<p>Souvenirs. #photo #2013</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" /></p>\n",
+				"content_text": "Souvenirs. #photo #2013\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" />\n",
+				"date_published": "2021-01-09T12:35:13+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/01/09/souvenirs-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2021/01/04/stationery-photo.html",
+				
+				"content_html": "<p>Stationery. #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stationery. #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-01-04T22:09:11+00:00",
+				"url": "https://somenotes.stevelloyd.net/2021/01/04/stationery-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/12/20/wispy-photo.html",
+				
+				"content_html": "<p>Wispy. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Wispy. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2020-12-20T10:26:44+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/12/20/wispy-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/12/19/an-interview-with.html",
+				
+				"content_html": "<p>An interview with Harold Budd, 1936-2020.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=65oy9zTxo50\">www.youtube.com/watch</a></p>\n",
+				"content_text": "An interview with Harold Budd, 1936-2020.\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=65oy9zTxo50)\n",
+				"date_published": "2020-12-19T22:28:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/12/19/an-interview-with.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/12/08/rock-and-water.html",
+				
+				"content_html": "<p>Rock and water. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Rock and water. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-08T23:54:43+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/12/08/rock-and-water.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/12/06/rock-photo.html",
+				
+				"content_html": "<p>Rock. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Rock. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-06T21:34:02+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/12/06/rock-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/11/29/misty-photo.html",
+				
+				"content_html": "<p>Misty. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Misty. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-29T03:54:47+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/11/29/misty-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/11/08/its-a-new.html",
+				
+				"content_html": "<p>It’s a new day. #photo #2020 📷</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It’s a new day. #photo #2020 📷 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-08T11:56:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/11/08/its-a-new.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/11/05/tactile-photo.html",
+				
+				"content_html": "<p>Tactile. #photo #2015</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tactile. #photo #2015\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-05T08:07:35+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/11/05/tactile-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/11/01/nekochan-photo.html",
+				
+				"content_html": "<p>Neko-chan #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Neko-chan #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-11-01T08:49:32+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/11/01/nekochan-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/10/31/holly-photo.html",
+				
+				"content_html": "<p>Holly #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Holly #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-31T15:04:32+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/10/31/holly-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/10/24/foamy-photo.html",
+				
+				"content_html": "<p>Foamy. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" /></p>\n",
+				"content_text": "Foamy. #photo #2020 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" />\n",
+				"date_published": "2020-10-24T10:20:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/10/24/foamy-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/10/15/same-tree-different.html",
+				
+				"content_html": "<p>Same tree. Different year. #photo #2017.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Same tree. Different year. #photo #2017.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-15T07:31:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/10/15/same-tree-different.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/10/14/midwales-i-like.html",
+				
+				"content_html": "<p>08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-14T08:18:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/10/14/midwales-i-like.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/09/10/peekaboo-photo.html",
+				
+				"content_html": "<p>Peekaboo. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Peekaboo. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-09-10T06:44:58+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/09/10/peekaboo-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/09/06/brick-photo.html",
+				
+				"content_html": "<p>Brick. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Brick. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-09-06T10:15:59+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/09/06/brick-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/08/29/linking-hearts-with.html",
+				
+				"content_html": "<p>&ldquo;Linking Hearts with Brush and Ink&rdquo;\nNHK&rsquo;s Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. <a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"Linking Hearts with Brush and Ink\" \r\nNHK's Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. [www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/) \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-08-29T08:48:29+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/08/29/linking-hearts-with.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/08/22/vertical-photo.html",
+				
+				"content_html": "<p>Vertical. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vertical. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-08-22T11:42:58+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/08/22/vertical-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/08/05/beam-photo.html",
+				
+				"content_html": "<p>Beam. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beam. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-08-05T08:36:40+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/08/05/beam-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/08/02/snapconnotes.html",
+				"title": "Snap!Con20-notes",
+				"content_html": "<p>I’ve learned so much from Snap!Con2020 (the annual conference for <a href=\"https://snap.berkeley.edu\">Snap!</a> – a blocks-based language), the sister of <a href=\"https://scratch.mit.edu\">Scratch</a>. Our current lives dictated that it be held online, which has had the good side-effect (they’re not always bad) – an opening-up of access to participants, who would not have been to able attend in person. This year’s conference was held at Berkeley, California.</p>\n\n<p>One session was an introduction to MicroBlocks, a blocks-based language which has been designed so it can run on small controllers and can be used for physical computing (doing things in the real world; like flashing lights, driving motors for robots). This means that you can write a program, try it out on your controller and then run it untethered from the computer, say as part of an installation (the Arts kind).</p>\n\n<p>Eager to try it out afterwards (that’s going to be a feature of many things I saw at Snap!Con2020), I built a little project, as demoed in this <a href=\"https://twitter.com/zosho/status/1289575155497238532\">tweet</a>. This note is by way of a <em>bill of materials</em> which I used to make it, basically by following the excellent instructions produced by the makers of the component parts. And maybe there'll be some follow ups as I play with new features.</p>\n\n<h2>What it uses</h2>\n\n<ul>\n<li>a Raspberry Pi to run a <em>WebThings</em> gateway to provide a hub to send commands to the micro:bit. I used a Raspberry Pi 3 B (I tried the model 4, but the Mozilla software doesn’t seem to have been updated for it yet.) A Raspberry Pi 3 A+ should also work fine. The gateway opens the route to lots of WebThings possiblities.</li>\n<li>a BBC <a href=\"https://www.microbit.org\">micro:bit</a> as the ‘physical device’. Though a few years old, it is really good value, with and array of LEDs to control, and sensors such as an accelerometer. Also a set of crocodile clip friendly connectors to add buzzers etc.</li>\n<li>the micro:bit is not complete without the totally <em>kawaii</em> <a href=\"https://www.kittenbot.cc/products/kittenbot-silicone-kitty-case-for-micro-bit-orange\">KittenBot</a> Kitty case</li>\n<li>micro-USB cable to connect micro:bit to computer for writing and downloading code, and connecting to the Pi gateway when live</li>\n<li>a microSD card (8/16G fine).</li>\n</ul>\n\n<figure>\n<img src=\"uploads/2020/e9962b8ef2.jpg\" alt=\"connection diagram for components\" />\n</figure>\n\n<h2>What it does</h2>\n\n<p>The 5x5 LED array on the micro:bit can be switched on and off from the gateway (or over the internet). Nothing more, nothing less ;-) This note doesn’t cover the detail of the gateway, but I’ll plan to cover this separately; it’s going to be an important development for the web.</p>\n\n<h2>Steps</h2>\n\n<ul>\n<li>set up your WebThings gateway as per Mozilla instructions, you should be able to access the user controls at <a href=\"http://gateway.local\">http://gateway.local</a>. You will need to add a MicroBlocks <em>add-on</em> from <em>Settings</em>.</li>\n<li>download the <a href=\"http://microblocks.fun/download\">MicroBlocks software</a> for your computer</li>\n<li>plug in the micro:bit to a USB port on your computer and update its firmware in the MicroBlocks editor</li>\n<li>create the blocks-first try the small local control block, just to prove you can flash the led. Then add the main loop blocks.  Before unplugging the micro:bit and connecting to a USB port on the Pi, ensure you've deleted the first small local control block you wrote-it's proved its point (its presence seems to upset the WebThings operation).</li>\n<li>from the <a href=\"http://gateway.local/things\"><em>Things</em> page</a> add your new IoT device (<em>+</em>)</li>\n<li>now you should be able to control it.</li>\n</ul>\n\n<figure>\n<img src=\"uploads/2020/2c7749fa08.jpg\" alt=\"code blocks\" />\n</figure>\n\n<h2>Resources</h2>\n\n<p><a href=\"http://microblocks.fun/learn\">MicroBlocks activity card</a> - I used this as the basis of my blocks sketch. A few details seem to have changed with the current version of MicroBlocks, but this may be my inexperience with the software. There are lots of other activities to try out on their site.</p>\n\n<p><a href=\"https://iot.mozilla.org/gateway\">Mozilla WebThings Gateway setup</a>. You need to put the gateway software onto a flash card to power up the Pi. If you don’t have a Pi you can use a PC running Linux as a gateway instead.</p>\n\n<p>micro:bit/Raspberry Pi parts. There are many stockists of these, check out your local supplier. In the UK I often use <a href=\"https://shop.pimoroni.com\">Pimoroni</a>, but choose your local supplier. For example:</p>\n\n<ul>\n<li><p><a href=\"https://shop.pimoroni.com/?q=kitty\">KittenBot case</p></li>\n<li><p><a href=\"https://shop.pimoroni.com/products/raspberry-pi-3-a-plus\">Raspberry Pi 3 A+ or B+</p></li>\n<li><p><a href=\"https://shop.pimoroni.com/products/microbit\">micro:bit</p></li>\n\n</ul>\n",
+				"content_text": "<p>I’ve learned so much from Snap!Con2020 (the annual conference for <a href=\"https://snap.berkeley.edu\">Snap!</a> – a blocks-based language), the sister of <a href=\"https://scratch.mit.edu\">Scratch</a>. Our current lives dictated that it be held online, which has had the good side-effect (they’re not always bad) – an opening-up of access to participants, who would not have been to able attend in person. This year’s conference was held at Berkeley, California.</p>\n\n<p>One session was an introduction to MicroBlocks, a blocks-based language which has been designed so it can run on small controllers and can be used for physical computing (doing things in the real world; like flashing lights, driving motors for robots). This means that you can write a program, try it out on your controller and then run it untethered from the computer, say as part of an installation (the Arts kind).</p>\n\n<p>Eager to try it out afterwards (that’s going to be a feature of many things I saw at Snap!Con2020), I built a little project, as demoed in this <a href=\"https://twitter.com/zosho/status/1289575155497238532\">tweet</a>. This note is by way of a <em>bill of materials</em> which I used to make it, basically by following the excellent instructions produced by the makers of the component parts. And maybe there'll be some follow ups as I play with new features.</p>\n\n<h2>What it uses</h2>\n\n<ul>\n<li>a Raspberry Pi to run a <em>WebThings</em> gateway to provide a hub to send commands to the micro:bit. I used a Raspberry Pi 3 B (I tried the model 4, but the Mozilla software doesn’t seem to have been updated for it yet.) A Raspberry Pi 3 A+ should also work fine. The gateway opens the route to lots of WebThings possiblities.</li>\n<li>a BBC <a href=\"https://www.microbit.org\">micro:bit</a> as the ‘physical device’. Though a few years old, it is really good value, with and array of LEDs to control, and sensors such as an accelerometer. Also a set of crocodile clip friendly connectors to add buzzers etc.</li>\n<li>the micro:bit is not complete without the totally <em>kawaii</em> <a href=\"https://www.kittenbot.cc/products/kittenbot-silicone-kitty-case-for-micro-bit-orange\">KittenBot</a> Kitty case</li>\n<li>micro-USB cable to connect micro:bit to computer for writing and downloading code, and connecting to the Pi gateway when live</li>\n<li>a microSD card (8/16G fine).</li>\n</ul>\n\n<figure>\n<img src=\"uploads/2020/e9962b8ef2.jpg\" alt=\"connection diagram for components\" />\n</figure>\n\n<h2>What it does</h2>\n\n<p>The 5x5 LED array on the micro:bit can be switched on and off from the gateway (or over the internet). Nothing more, nothing less ;-) This note doesn’t cover the detail of the gateway, but I’ll plan to cover this separately; it’s going to be an important development for the web.</p>\n\n<h2>Steps</h2>\n\n<ul>\n<li>set up your WebThings gateway as per Mozilla instructions, you should be able to access the user controls at <a href=\"http://gateway.local\">http://gateway.local</a>. You will need to add a MicroBlocks <em>add-on</em> from <em>Settings</em>.</li>\n<li>download the <a href=\"http://microblocks.fun/download\">MicroBlocks software</a> for your computer</li>\n<li>plug in the micro:bit to a USB port on your computer and update its firmware in the MicroBlocks editor</li>\n<li>create the blocks-first try the small local control block, just to prove you can flash the led. Then add the main loop blocks.  Before unplugging the micro:bit and connecting to a USB port on the Pi, ensure you've deleted the first small local control block you wrote-it's proved its point (its presence seems to upset the WebThings operation).</li>\n<li>from the <a href=\"http://gateway.local/things\"><em>Things</em> page</a> add your new IoT device (<em>+</em>)</li>\n<li>now you should be able to control it.</li>\n</ul>\n\n<figure>\n<img src=\"uploads/2020/2c7749fa08.jpg\" alt=\"code blocks\" />\n</figure>\n\n<h2>Resources</h2>\n\n<p><a href=\"http://microblocks.fun/learn\">MicroBlocks activity card</a> - I used this as the basis of my blocks sketch. A few details seem to have changed with the current version of MicroBlocks, but this may be my inexperience with the software. There are lots of other activities to try out on their site.</p>\n\n<p><a href=\"https://iot.mozilla.org/gateway\">Mozilla WebThings Gateway setup</a>. You need to put the gateway software onto a flash card to power up the Pi. If you don’t have a Pi you can use a PC running Linux as a gateway instead.</p>\n\n<p>micro:bit/Raspberry Pi parts. There are many stockists of these, check out your local supplier. In the UK I often use <a href=\"https://shop.pimoroni.com\">Pimoroni</a>, but choose your local supplier. For example:</p>\n\n<ul>\n<li><p><a href=\"https://shop.pimoroni.com/?q=kitty\">KittenBot case</p></li>\n<li><p><a href=\"https://shop.pimoroni.com/products/raspberry-pi-3-a-plus\">Raspberry Pi 3 A+ or B+</p></li>\n<li><p><a href=\"https://shop.pimoroni.com/products/microbit\">micro:bit</p></li>\n\n</ul>\n",
+				"date_published": "2020-08-02T21:53:00+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/08/02/snapconnotes.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/07/28/view-photo.html",
+				
+				"content_html": "<p>View. #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "View. #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-07-28T08:07:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/07/28/view-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/07/12/signage-photo.html",
+				
+				"content_html": "<p>Signage. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Signage. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-12T07:09:58+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/07/12/signage-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/07/11/weathered-photo.html",
+				
+				"content_html": "<p>Weathered. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Weathered. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-11T05:56:30+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/07/11/weathered-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/07/05/design-talks-pluslibraries.html",
+				
+				"content_html": "<p>Design Talks Plus—Libraries</p>\n\n<p>The changing design of libraries <a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046099/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n",
+				"content_text": "Design Talks Plus—Libraries\n\nThe changing design of libraries [www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046099/)\n",
+				"date_published": "2020-07-05T07:46:27+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/07/05/design-talks-pluslibraries.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/06/03/through-the-kitchen.html",
+				
+				"content_html": "<p>“Through the Kitchen Window: Misao Kuwata - Mochi Rice Cakes Wrapped in Bamboo Leaves”.\nI just love these small vignettes of lives full of energy, endeavour and generosity.\n<a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3019082/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n",
+				"content_text": "“Through the Kitchen Window: Misao Kuwata - Mochi Rice Cakes Wrapped in Bamboo Leaves”.\nI just love these small vignettes of lives full of energy, endeavour and generosity. \n[www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3019082/)\n",
+				"date_published": "2020-06-03T07:03:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/06/03/through-the-kitchen.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/30/use-when-programming.html",
+				
+				"content_html": "<p>Use when programming. #photo #2017</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Use when programming. #photo #2017\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-05-30T03:30:40+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/30/use-when-programming.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/15/all-the-sounds.html",
+				"title": "All the sounds of the earth are like music @BBCRadio3",
+				"content_html": "<p>Each Friday recently the BBC Radio 3 Breakfast Show [www.bbc.co.uk/sounds/pl...](https://www.bbc.co.uk/sounds/play/m000j3hh) has been inviting audience participation in the form of a sing-along. (Haha! Autocorrect suggested sing-alone, it's getting far too perceptive.) Today's choice was from Oklahoma! Over the last week, listeners have tweeted pictures of the 1960s album cover, which I also recall as our household's first record, played on a blue leatherette-covered Dansette.</p>\n\n<p>In her last years music was my mum's remaining engagement and joy, as dementia took its toll. We often sang along to this album and she would have been singing today, no doubt. </p>\n",
+				"content_text": "<p>Each Friday recently the BBC Radio 3 Breakfast Show [www.bbc.co.uk/sounds/pl...](https://www.bbc.co.uk/sounds/play/m000j3hh) has been inviting audience participation in the form of a sing-along. (Haha! Autocorrect suggested sing-alone, it's getting far too perceptive.) Today's choice was from Oklahoma! Over the last week, listeners have tweeted pictures of the 1960s album cover, which I also recall as our household's first record, played on a blue leatherette-covered Dansette.</p>\n\n<p>In her last years music was my mum's remaining engagement and joy, as dementia took its toll. We often sang along to this album and she would have been singing today, no doubt. </p>\n",
+				"date_published": "2020-05-15T08:32:33+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/15/all-the-sounds.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/15/this-is-by.html",
+				"title": "This is by way of a small test",
+				"content_html": "<p>Trying out a new Micropub client. Happy Friday everyone!</p>\n",
+				"content_text": "\n<p>Trying out a new Micropub client. Happy Friday everyone!</p>\n",
+				"date_published": "2020-05-15T08:06:39+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/15/this-is-by.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/10/an-audience-was.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;An audience was coming to hear a story…I would have to pull back the curtains, step onto the stage and entertain them. It was the last thing in the world I wanted to do, but I had to do it. It had to be done. And somehow I did.</p>\n</blockquote>\n\n<p>— Poet and playwright Inua Ellams. 2020. BBC Radio 3&rsquo;s &ldquo;The Essay—Let me take you there&rdquo;. (Places we escape to in times of crisis.)  <a href=\"https://www.bbc.co.uk/sounds/play/m000hv2k\">www.bbc.co.uk/sounds/pl&hellip;</a>\n💬</p>\n",
+				"content_text": ">\"An audience was coming to hear a story…I would have to pull back the curtains, step onto the stage and entertain them. It was the last thing in the world I wanted to do, but I had to do it. It had to be done. And somehow I did.\n\n— Poet and playwright Inua Ellams. 2020. BBC Radio 3's \"The Essay—Let me take you there\". (Places we escape to in times of crisis.)  [www.bbc.co.uk/sounds/pl...](https://www.bbc.co.uk/sounds/play/m000hv2k)\n💬\n",
+				"date_published": "2020-05-10T10:01:36+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/10/an-audience-was.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/09/the-writer-tries.html",
+				
+				"content_html": "<blockquote>\n<p>The writer tries to understand the reader‒that&rsquo;s the goal of a writer…is to have a good mental image of the reader.</p>\n</blockquote>\n\n<p>Donald Knuth. 2019. &ldquo;Algorithms, TeX, Life, and The Art of Computer Programming&rdquo; conversation with Lex Fridman. <a href=\"https://lexfridman.com/donald-knuth/\">lexfridman.com/donald-kn&hellip;</a>\n💬</p>\n",
+				"content_text": "> The writer tries to understand the reader‒that's the goal of a writer…is to have a good mental image of the reader.\n\nDonald Knuth. 2019. \"Algorithms, TeX, Life, and The Art of Computer Programming\" conversation with Lex Fridman. [lexfridman.com/donald-kn...](https://lexfridman.com/donald-knuth/)\n💬\n\n",
+				"date_published": "2020-05-09T11:37:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/09/the-writer-tries.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/08/the-resources-were.html",
+				
+				"content_html": "<blockquote>\n<p>The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher&rsquo;s stone.</p>\n</blockquote>\n\n<p>– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. &ldquo;Derek Jarman&rdquo;. (img via bfi)\n💬</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" /></p>\n",
+				"content_text": "> The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher's stone.\r\n\r\n– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. \"Derek Jarman\". (img via bfi)\r\n💬\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" />\n",
+				"date_published": "2020-05-08T08:45:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/08/the-resources-were.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/07/some-people-say.html",
+				
+				"content_html": "<blockquote>\n<p>Some people say history moves in a spiral, not the line we have come to expect. We travel through time in a circular trajectory, our distance increasing from a epicenter only to return again, one circle removed.</p>\n</blockquote>\n\n<p>— Ocean Vuong. 2019. &ldquo;On Earth We&rsquo;re Briefly Gorgeous&rdquo;. 💬</p>\n",
+				"content_text": "> Some people say history moves in a spiral, not the line we have come to expect. We travel through time in a circular trajectory, our distance increasing from a epicenter only to return again, one circle removed. \n\n— Ocean Vuong. 2019. \"On Earth We're Briefly Gorgeous\". 💬\n",
+				"date_published": "2020-05-07T09:08:01+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/07/some-people-say.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/06/programs-must-be.html",
+				
+				"content_html": "<p>💬 &ldquo;…programs must be written for people to read, and only incidentally for machines to execute.&rdquo;\n— Abelson, Sussman and Sussman. 1996. “Structure and Interpretation of Computer Programs”</p>\n",
+				"content_text": "💬 \"…programs must be written for people to read, and only incidentally for machines to execute.\"\n— Abelson, Sussman and Sussman. 1996. “Structure and Interpretation of Computer Programs”\n",
+				"date_published": "2020-05-06T07:07:57+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/06/programs-must-be.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/05/although-we-say.html",
+				
+				"content_html": "<p>💬 “Although we say mountains belong to the country, actually, they belong to those that love them”\n— Dōgen Zenji</p>\n",
+				"content_text": "💬 “Although we say mountains belong to the country, actually, they belong to those that love them”\n— Dōgen Zenji\n",
+				"date_published": "2020-05-05T05:47:58+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/05/although-we-say.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/05/04/on-email-its.html",
+				
+				"content_html": "<p>💬 “On email it’s never now. It’s always then…”\n— Ruth Ozeki, A Tale for the Time Being.</p>\n",
+				"content_text": "💬 “On email it’s never now. It’s always then…” \n— Ruth Ozeki, A Tale for the Time Being.\n",
+				"date_published": "2020-05-04T06:50:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/05/04/on-email-its.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/04/28/photo.html",
+				
+				"content_html": "<p>#photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "#photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-04-28T06:40:12+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/04/28/photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/04/13/a-video-of.html",
+				
+				"content_html": "<p>A video of the late John Conway, talking about his relationship with Martin Gardner’s columns in Scientific American,  and his Game of Life. “OK, I don’t hate it”. His humour and humanity evident throughout.</p>\n\n<p><a href=\"https://youtu.be/R9Plq-D1gEk\">youtu.be/R9Plq-D1g&hellip;</a></p>\n",
+				"content_text": "A video of the late John Conway, talking about his relationship with Martin Gardner’s columns in Scientific American,  and his Game of Life. “OK, I don’t hate it”. His humour and humanity evident throughout.\n\n[youtu.be/R9Plq-D1g...](https://youtu.be/R9Plq-D1gEk)\n",
+				"date_published": "2020-04-13T13:53:27+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/04/13/a-video-of.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/04/10/my-colleague-expressed.html",
+				
+				"content_html": "<p>My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes. \n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-10T06:54:28+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/04/10/my-colleague-expressed.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/04/05/of-course-i.html",
+				
+				"content_html": "<p>Of course I always wear a bow tie while eating my meals to this day.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Of course I always wear a bow tie while eating my meals to this day.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-05T11:35:34+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/04/05/of-course-i.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/04/04/even-a-minute.html",
+				"title": "'Even a minute of breathing can reduce stress’",
+				"content_html": "<p>“&rsquo;Even a minute of breathing can reduce stress&rsquo;, my Apple Watch says, nudging my wrist gently. I dismiss it with a huff.&rdquo; <a href=\"https://beckyhansmeyer.com/2020/03/20/the-great-slowdown/\">beckyhansmeyer.com/2020/03/2&hellip;</a> stopped me in my tracks with this. I&rsquo;m always doing it. Me who thinks of themself as being in a &ldquo;oh, yeah, I appreciate the benefits of zazen&rdquo; frame of mind. But not acted on recently.</p>\n\n<p>Thanks for the reminder Ms Hansmeyer. And Apple Watch.</p>\n",
+				"content_text": "“'Even a minute of breathing can reduce stress', my Apple Watch says, nudging my wrist gently. I dismiss it with a huff.\" [beckyhansmeyer.com/2020/03/2...](https://beckyhansmeyer.com/2020/03/20/the-great-slowdown/) stopped me in my tracks with this. I'm always doing it. Me who thinks of themself as being in a \"oh, yeah, I appreciate the benefits of zazen\" frame of mind. But not acted on recently.\n\nThanks for the reminder Ms Hansmeyer. And Apple Watch.\n",
+				"date_published": "2020-04-04T09:37:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/04/04/even-a-minute.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/03/23/no-need-for.html",
+				
+				"content_html": "<p>No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-03-23T09:10:28+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/03/23/no-need-for.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/03/18/til-that-the.html",
+				
+				"content_html": "<p>TIL that The Photographers’ Gallery have a podcast <a href=\"https://thephotographersgallery.org.uk/content/talking-about-photography\">thephotographersgallery.org.uk/content/t&hellip;</a> and other online content <a href=\"https://thephotographersgallery.org.uk/viewpoints\">thephotographersgallery.org.uk/viewpoint&hellip;</a></p>\n",
+				"content_text": "TIL that The Photographers’ Gallery have a podcast [thephotographersgallery.org.uk/content/t...](https://thephotographersgallery.org.uk/content/talking-about-photography) and other online content [thephotographersgallery.org.uk/viewpoint...](https://thephotographersgallery.org.uk/viewpoints)\n",
+				"date_published": "2020-03-18T07:52:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/03/18/til-that-the.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/03/01/a-vision-of.html",
+				
+				"content_html": "<p>A vision of the future. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A vision of the future. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-03-01T23:37:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/03/01/a-vision-of.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/29/the-delian-modedocumentary.html",
+				
+				"content_html": "<p>The Delian Mode—documentary about sound pioneer Delia Derbyshire. <a href=\"https://youtu.be/nXnmSgaeGAI\">youtu.be/nXnmSgaeG&hellip;</a></p>\n",
+				"content_text": "The Delian Mode—documentary about sound pioneer Delia Derbyshire. [youtu.be/nXnmSgaeG...](https://youtu.be/nXnmSgaeGAI)\n",
+				"date_published": "2020-02-29T21:31:07+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/29/the-delian-modedocumentary.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/29/leap-maybe-not.html",
+				
+				"content_html": "<p>Leap. Maybe not today. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Leap. Maybe not today. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-29T20:21:10+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/29/leap-maybe-not.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/28/below-this-raspberry.html",
+				
+				"content_html": "<p>Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-28T23:19:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/28/below-this-raspberry.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/27/together-mountains-boy.html",
+				
+				"content_html": "<p>Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-27T23:49:21+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/27/together-mountains-boy.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/26/the-hills-didnt.html",
+				
+				"content_html": "<p>The hills didn’t escape a dusting of snow. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The hills didn’t escape a dusting of snow. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-26T22:18:51+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/26/the-hills-didnt.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/25/the-hurdle-of.html",
+				
+				"content_html": "<p>The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. <a href=\"https://en.m.wikipedia.org/wiki/Matching_Mole\">en.m.wikipedia.org/wiki/Matc&hellip;</a> Totally yummy. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. [en.m.wikipedia.org/wiki/Matc...](https://en.m.wikipedia.org/wiki/Matching_Mole) Totally yummy. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-25T09:07:48+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/25/the-hurdle-of.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/24/if-only-the.html",
+				
+				"content_html": "<p>If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-24T22:42:13+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/24/if-only-the.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/23/station-shown-today.html",
+				
+				"content_html": "<p>Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-02-23T17:39:47+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/23/station-shown-today.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/22/what-causes-this.html",
+				
+				"content_html": "<p>What causes this spectacle? Sodium I guess. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "What causes this spectacle? Sodium I guess. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-22T21:12:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/22/what-causes-this.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/21/this-one-steppingstone.html",
+				
+				"content_html": "<p>This, one stepping-stone on my progress as an engineer. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "This, one stepping-stone on my progress as an engineer. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-21T20:36:45+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/21/this-one-steppingstone.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/20/scale-these-weighed.html",
+				
+				"content_html": "<p>Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-20T20:13:54+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/20/scale-these-weighed.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/19/space-mbfeb.html",
+				
+				"content_html": "<p>Space. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Space. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-19T18:12:04+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/19/space-mbfeb.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/18/i-oppose-this.html",
+				
+				"content_html": "<p>I oppose this takeover of my chair #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I oppose this takeover of my chair #mbfeb\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-02-18T21:03:46+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/18/i-oppose-this.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/17/cool-what-i.html",
+				
+				"content_html": "<p>Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-02-17T19:26:51+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/17/cool-what-i.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/16/theres-a-brief.html",
+				
+				"content_html": "<p>There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-16T20:52:13+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/16/theres-a-brief.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/15/theres-a-stream.html",
+				
+				"content_html": "<p>There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-02-15T19:14:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/15/theres-a-stream.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/15/its-a-year.html",
+				"title": "It’s a year since we lost Jeremy Hardy. Sorely missed. ",
+				"content_html": "<p>“It is often said there aren’t enough women in the boardroom. But in reality there are thousands of women in boardrooms. It’s just that they’re the women who have to clean boardrooms at 4.30 in the morning and then be home in time to get their kids off to school before going to their other job while hoping their asylum claim isn’t turned down because they haven’t got enough documents to prove they were sufficiently tortured to satisfy a civil servant in Croydon.”</p>\n\n<p><a href=\"https://www.theguardian.com/culture/2020/feb/15/jeremy-hardy-speaks-volumes-interview-katie-barlow-wife-book-extract\">www.theguardian.com/culture/2&hellip;</a></p>\n",
+				"content_text": "“It is often said there aren’t enough women in the boardroom. But in reality there are thousands of women in boardrooms. It’s just that they’re the women who have to clean boardrooms at 4.30 in the morning and then be home in time to get their kids off to school before going to their other job while hoping their asylum claim isn’t turned down because they haven’t got enough documents to prove they were sufficiently tortured to satisfy a civil servant in Croydon.”\n\n[www.theguardian.com/culture/2...](https://www.theguardian.com/culture/2020/feb/15/jeremy-hardy-speaks-volumes-interview-katie-barlow-wife-book-extract)\n",
+				"date_published": "2020-02-15T18:36:24+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/15/its-a-year.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/14/warmth-comes-from.html",
+				
+				"content_html": "<p>Warmth comes from the chilli relish at the top. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Warmth comes from the chilli relish at the top. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-14T21:29:17+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/14/warmth-comes-from.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/13/rise-mbfeb-photo.html",
+				
+				"content_html": "<p>Rise. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rise. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-13T17:39:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/13/rise-mbfeb-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/12/attachment-me-this.html",
+				
+				"content_html": "<p>Attachment😋. Me + this tiny cupcake. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Attachment😋. Me + this tiny cupcake. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-12T15:27:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/12/attachment-me-this.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/11/this-exhibition-promises.html",
+				
+				"content_html": "<p>This exhibition promises to be plain fabulous. #mbfeb <a href=\"https://canterburymuseums.co.uk/events/comics/\">canterburymuseums.co.uk/events/co&hellip;</a></p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "This exhibition promises to be plain fabulous. #mbfeb [canterburymuseums.co.uk/events/co...](https://canterburymuseums.co.uk/events/comics/)\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-11T22:16:15+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/11/this-exhibition-promises.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/11/sign-spam-onigiri.html",
+				
+				"content_html": "<p>Sign. Spam Onigiri, yum. #mbfeb #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sign. Spam Onigiri, yum. #mbfeb #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-02-11T12:07:20+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/11/sign-spam-onigiri.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/09/lull-mbfeb-photo.html",
+				
+				"content_html": "<p>Lull. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Lull. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-09T17:03:44+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/09/lull-mbfeb-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/08/contrast-mbfeb-photo.html",
+				
+				"content_html": "<p>Contrast. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Contrast. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-08T18:12:44+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/08/contrast-mbfeb-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/07/above-mbfeb-photo.html",
+				
+				"content_html": "<p>Above. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Above. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-07T18:11:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/07/above-mbfeb-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/06/plant-mbfeb-photo.html",
+				
+				"content_html": "<p>Plant. #mbfeb #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Plant. #mbfeb #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-02-06T18:51:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/06/plant-mbfeb-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/05/hide-mbfeb-oops.html",
+				
+				"content_html": "<p>Hide. #mbfeb Oops! I’m in the picture.</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Hide. #mbfeb Oops! I’m in the picture. \n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-05T20:44:02+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/05/hide-mbfeb-oops.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/04/spot-mbfeb.html",
+				
+				"content_html": "<p>Spot. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Spot. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-04T18:52:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/04/spot-mbfeb.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/03/reflect-on-music.html",
+				
+				"content_html": "<p>Reflect on music. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Reflect on music. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-03T17:46:13+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/03/reflect-on-music.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/02/sight-mbfeb.html",
+				
+				"content_html": "<p>Sight. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Sight. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-02T15:41:18+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/02/sight-mbfeb.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/02/01/open-mbfeb.html",
+				
+				"content_html": "<p>Open. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Open. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-01T19:10:56+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/02/01/open-mbfeb.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/01/29/weathering-with-you.html",
+				"title": "Weathering with you",
+				"content_html": "<p>Makoto Shinkai’s #WeatheringWithYou <a href=\"https://youtu.be/Q6iK6DjV_iE\">youtu.be/Q6iK6DjV_&hellip;</a> has been characterised as both a fantastical love story between the two main protagonists <a href=\"https://www.theatlantic.com/culture/archive/2020/01/weathering-you-makoto-shinkai-anime-review/605125/\">www.theatlantic.com/culture/a&hellip;</a> and an affront to climate change activists <a href=\"https://www.wired.co.uk/article/weathering-with-you-climate-apathy\">www.wired.co.uk/article/w&hellip;</a> — symptomatic of some perceived apathy of Japanese society.\nBut there’s a strong thread of people creating family, in the fragmented and desperate circumstances in which they find themselves. Families whose members include sage cats and old-beyond-their-years children. Running through it is a visual poem to rain, standing water and storms, all rendered in the director’s painstakingly beautiful style. Also humour.\nIt explores people’s reactions, trivial and profound in the face of runaway climate change. And the dilemma; that which of us wouldn’t sacrifice the world for their nearest and dearest—even if characterised by wider society as ‘pretended family relationships’.\nRecommended viewing.</p>\n",
+				"content_text": "Makoto Shinkai’s #WeatheringWithYou [youtu.be/Q6iK6DjV_...](https://youtu.be/Q6iK6DjV_iE) has been characterised as both a fantastical love story between the two main protagonists [www.theatlantic.com/culture/a...](https://www.theatlantic.com/culture/archive/2020/01/weathering-you-makoto-shinkai-anime-review/605125/) and an affront to climate change activists [www.wired.co.uk/article/w...](https://www.wired.co.uk/article/weathering-with-you-climate-apathy) — symptomatic of some perceived apathy of Japanese society. \nBut there’s a strong thread of people creating family, in the fragmented and desperate circumstances in which they find themselves. Families whose members include sage cats and old-beyond-their-years children. Running through it is a visual poem to rain, standing water and storms, all rendered in the director’s painstakingly beautiful style. Also humour. \nIt explores people’s reactions, trivial and profound in the face of runaway climate change. And the dilemma; that which of us wouldn’t sacrifice the world for their nearest and dearest—even if characterised by wider society as ‘pretended family relationships’. \nRecommended viewing.\n",
+				"date_published": "2020-01-29T23:41:01+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/01/29/weathering-with-you.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/01/26/watashi-wa-terrace.html",
+				
+				"content_html": "<p>Watashi wa ‘Terrace House’ ( <a href=\"https://en.m.wikipedia.org/wiki/Terrace_House_(franchise\">https://en.m.wikipedia.org/wiki/Terrace_House_(franchise</a>) ) ni yamitsuki desu. Sumimasen.</p>\n",
+				"content_text": "Watashi wa ‘Terrace House’ ( https://en.m.wikipedia.org/wiki/Terrace_House_(franchise) ) ni yamitsuki desu. Sumimasen. \n",
+				"date_published": "2020-01-26T12:45:43+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/01/26/watashi-wa-terrace.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/01/24/stripe-photo.html",
+				
+				"content_html": "<p>Stripe. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stripe. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-01-24T10:18:48+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/01/24/stripe-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/01/12/fascinating-interview-with.html",
+				
+				"content_html": "<p><a href=\"https://lexfridman.com/donald-knuth/\">Fascinating interview with Donald Knuth</a> — apart from the obvious, regarding his writing process (from 39:16).</p>\n\n<p>Which led me down a short exploration in expanding my limited knowledge of <a href=\"https://orgmode.org\">org-mode</a> and its ability to evaluate code blocks in mixed source languages within an otherwise textual file.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" /></p>\n",
+				"content_text": "[Fascinating interview with Donald Knuth](https://lexfridman.com/donald-knuth/) — apart from the obvious, regarding his writing process (from 39:16).\r\n\r\nWhich led me down a short exploration in expanding my limited knowledge of [org-mode](https://orgmode.org) and its ability to evaluate code blocks in mixed source languages within an otherwise textual file. \r\n\r\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" />\n",
+				"date_published": "2020-01-12T21:29:01+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/01/12/fascinating-interview-with.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2020/01/03/ponies-hills-hillponies.html",
+				
+				"content_html": "<p>Ponies + hills = Hill-ponies #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ponies + hills = Hill-ponies #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-03T16:21:25+00:00",
+				"url": "https://somenotes.stevelloyd.net/2020/01/03/ponies-hills-hillponies.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/12/26/chuck-peddle-codesigner.html",
+				"title": "Chuck Peddle — co-designer of the 6502 processor died recently",
+				"content_html": "<p>This elegant ISA design (minimalist because of cost constraints) powered many iconic computer systems, which went on to change the world: eg the <a href=\"https://en.wikipedia.org/wiki/Apple_II\">Apple II</a> because… well Apple,  and the <a href=\"https://en.wikipedia.org/wiki/BBC_Micro\">BBC micro</a>. Acorn&rsquo;s BBC micro was designed for expandability; of &lsquo;built-in&rsquo; languages (Lisp, Pascal, BCPL) alongside the BASIC system (whose design by Sophie Wilson was a model of ingenuity). It also became a key design tool in the development of the ARM processor. Which you may have heard of.</p>\n",
+				"content_text": "This elegant ISA design (minimalist because of cost constraints) powered many iconic computer systems, which went on to change the world: eg the [Apple II](https://en.wikipedia.org/wiki/Apple_II) because… well Apple,  and the [BBC micro](https://en.wikipedia.org/wiki/BBC_Micro). Acorn's BBC micro was designed for expandability; of 'built-in' languages (Lisp, Pascal, BCPL) alongside the BASIC system (whose design by Sophie Wilson was a model of ingenuity). It also became a key design tool in the development of the ARM processor. Which you may have heard of.\n",
+				"date_published": "2019-12-26T10:38:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/12/26/chuck-peddle-codesigner.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/12/21/dolwyddelan-photo.html",
+				
+				"content_html": "<p>Dolwyddelan. #photo #2018</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Dolwyddelan. #photo #2018\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-12-21T09:00:38+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/12/21/dolwyddelan-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/11/22/well-sunny-photo.html",
+				
+				"content_html": "<p>Well sunny. #photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Well sunny. #photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-11-22T11:13:03+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/11/22/well-sunny-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/11/18/eiheiji-photo.html",
+				
+				"content_html": "<p>Eiheiji. #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Eiheiji. #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-11-18T22:43:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/11/18/eiheiji-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/11/09/your-microbits-name.html",
+				"title": "Your micro:bit's name — try this in #MakeCode",
+				"content_html": "<p>I&rsquo;m re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here&rsquo;s one about each device&rsquo;s unique name you can try in MakeCode.</p>\n\n<p>Each micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:</p>\n\n<ul>\n<li>in a new project, swap into JavaScript editor view and type</li>\n</ul>\n\n<p><code>let myName = control.deviceName()</code></p>\n\n<p><code>myName</code> is going to be the variable where we can access the micro:bit&rsquo;s name.</p>\n\n<ul>\n<li>now swap back to blocks view and you&rsquo;ll see a <code>myName</code> variable being set—you can display it as you would with any text, such as in a <code>show string</code> block.</li>\n</ul>\n\n<p>You&rsquo;ll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example <em>gozut</em> — yours will be different.</p>\n\n<p>What&rsquo;s the use? Say you&rsquo;re using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit&rsquo;s values.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" /></p>\n",
+				"content_text": "I'm re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here's one about each device's unique name you can try in MakeCode.\n\nEach micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:\n\n- in a new project, swap into JavaScript editor view and type \n\n`let myName = control.deviceName()`\n\n`myName` is going to be the variable where we can access the micro:bit's name.\n\n- now swap back to blocks view and you'll see a `myName` variable being set—you can display it as you would with any text, such as in a `show string` block. \n\nYou'll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example *gozut* — yours will be different.\n\nWhat's the use? Say you're using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit's values.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" />\n",
+				"date_published": "2019-11-09T18:22:04+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/11/09/your-microbits-name.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/11/03/a-view-from.html",
+				
+				"content_html": "<p>A view from a hill. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" /></p>\n",
+				"content_text": "A view from a hill. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" />\n",
+				"date_published": "2019-11-03T15:09:15+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/11/03/a-view-from.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/10/26/two-trees-photo.html",
+				
+				"content_html": "<p>Two trees. #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Two trees. #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-10-26T11:42:17+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/10/26/two-trees-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/10/26/some-trees-photo.html",
+				
+				"content_html": "<p>Some trees. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Some trees. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-10-26T11:23:14+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/10/26/some-trees-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/10/09/sissinghurst-photo.html",
+				
+				"content_html": "<p>Sissinghurst #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sissinghurst #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-10-09T11:45:07+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/10/09/sissinghurst-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/29/more-apples-photo.html",
+				
+				"content_html": "<p>More apples. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "More apples. #photo #2019\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-29T17:39:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/29/more-apples-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/27/seaside-photo.html",
+				
+				"content_html": "<p>Seaside. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Seaside. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-27T16:13:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/27/seaside-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/16/fragments-photo.html",
+				
+				"content_html": "<p>Fragments. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fragments. #photo #2019\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-16T17:32:34+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/16/fragments-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/14/camcrag-tentastic-tentfest.html",
+				
+				"content_html": "<p>camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-14T15:51:53+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/14/camcrag-tentastic-tentfest.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/08/green-photo.html",
+				
+				"content_html": "<p>Green. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Green. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-09-08T14:24:54+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/08/green-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/09/06/saltaire-photo.html",
+				
+				"content_html": "<p>Saltaire. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Saltaire. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-06T14:01:16+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/09/06/saltaire-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/08/10/apples-photo.html",
+				
+				"content_html": "<p>Apples. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Apples. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-08-10T09:59:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/08/10/apples-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/07/24/embedded-architecture-photo.html",
+				
+				"content_html": "<p>Embedded Architecture #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Embedded Architecture #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-07-24T07:12:26+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/07/24/embedded-architecture-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/07/18/mangaexhibition-photo-british.html",
+				
+				"content_html": "<p>#MangaExhibition #photo #2019 British Museum</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#MangaExhibition #photo #2019 British Museum \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-07-18T08:02:24+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/07/18/mangaexhibition-photo-british.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/07/13/and-above-that.html",
+				
+				"content_html": "<p>“And above that, his eyes: their grey irises smattered with bits of brown and ember so that, looking at them, you could almost see, right behind you, something burning under an overcast sky”. Ocean Vuong has a way with words.</p>\n",
+				"content_text": "“And above that, his eyes: their grey irises smattered with bits of brown and ember so that, looking at them, you could almost see, right behind you, something burning under an overcast sky”. Ocean Vuong has a way with words. \n",
+				"date_published": "2019-07-13T11:05:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/07/13/and-above-that.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/07/10/hoping-that-the.html",
+				
+				"content_html": "<p>Hoping that the demise of the only fanless Mac laptop—just the right size for a backpack, is a precursor to an ARM or better-still RISC-V successor. Mine is going strong with only one crumb-related keyboard panic-ette.</p>\n",
+				"content_text": "Hoping that the demise of the only fanless Mac laptop—just the right size for a backpack, is a precursor to an ARM or better-still RISC-V successor. Mine is going strong with only one crumb-related keyboard panic-ette. \n",
+				"date_published": "2019-07-10T21:36:43+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/07/10/hoping-that-the.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/06/25/sirid-like-to.html",
+				
+				"content_html": "<p>&ldquo;Sir:\nI&rsquo;d like to clear up a gross misconception that one of your contributors has concerning the behavior of the onboard computer during the Apollo 11 landing.&rdquo; — Margaret Hamilton <a href=\"https://wehackthemoon.com/people/margaret-hamilton-computer-got-loaded\">wehackthemoon.com/people/ma&hellip;</a></p>\n",
+				"content_text": "\"Sir:\nI'd like to clear up a gross misconception that one of your contributors has concerning the behavior of the onboard computer during the Apollo 11 landing.\" — Margaret Hamilton [wehackthemoon.com/people/ma...](https://wehackthemoon.com/people/margaret-hamilton-computer-got-loaded)\n",
+				"date_published": "2019-06-25T06:49:39+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/06/25/sirid-like-to.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/06/25/so-a-timely.html",
+				
+				"content_html": "<p>So, a timely reminder that there’s only 5 months till <a href=\"https://www.runwales.com\">www.runwales.com</a> Conwy &frac12; marathon. Need to book the traditional balmy weather…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "So, a timely reminder that there’s only 5 months till [www.runwales.com](https://www.runwales.com) Conwy 1/2 marathon. Need to book the traditional balmy weather…\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-25T06:22:26+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/06/25/so-a-timely.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/06/22/resist-temptation-to.html",
+				
+				"content_html": "<p>Resist. Temptation. To. Climb. #tatemodern #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Resist. Temptation. To. Climb. #tatemodern #photo #2016\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-22T08:20:20+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/06/22/resist-temptation-to.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/06/04/it-rained-photo.html",
+				
+				"content_html": "<p>It rained. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It rained. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-04T19:04:59+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/06/04/it-rained-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/05/20/moon-iss-caerfai.html",
+				
+				"content_html": "<p>Moon. ISS. Caerfai Bay. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Moon. ISS. Caerfai Bay. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-05-20T15:49:35+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/05/20/moon-iss-caerfai.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/05/12/p-class-class.html",
+				
+				"content_html": "<p>&rsquo;(p ([class &ldquo;class&rdquo;])\n   &ldquo;Some &rdquo;\n   (em () &ldquo;awesome&rdquo;)\n   &ldquo; HTML&rdquo;\n   tm)\n“As the Lisp Evangelism Task Force will point out on Hacker News every few weeks, x-expressions are what XML would be if it weren’t produced by the Department of Redundancy Department.” — Greg Hendershott</p>\n",
+				"content_text": "'(p ([class \"class\"]) \n   \"Some \" \n   (em () \"awesome\")\n   \" HTML\"\n   tm)\n“As the Lisp Evangelism Task Force will point out on Hacker News every few weeks, x-expressions are what XML would be if it weren’t produced by the Department of Redundancy Department.” — Greg Hendershott\n",
+				"date_published": "2019-05-12T08:02:14+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/05/12/p-class-class.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/05/04/a-different-kind.html",
+				
+				"content_html": "<p>A different kind of blue. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A different kind of blue. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-05-04T21:35:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/05/04/a-different-kind.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/04/29/ronchampsi-suspect-it.html",
+				
+				"content_html": "<p>“Ronchamps…I suspect it is one of the most beautiful buildings in the world” — Derek Jarman <a href=\"https://www.ribaj.com/buildings/chapel-of-notre-dame-du-haut\">www.ribaj.com/buildings&hellip;</a></p>\n",
+				"content_text": "“Ronchamps…I suspect it is one of the most beautiful buildings in the world” — Derek Jarman [www.ribaj.com/buildings...](https://www.ribaj.com/buildings/chapel-of-notre-dame-du-haut)\n",
+				"date_published": "2019-04-29T12:01:54+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/04/29/ronchampsi-suspect-it.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/04/26/this-still-feels.html",
+				
+				"content_html": "<p>This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute &amp; light &amp; useful.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute & light & useful.\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-26T17:20:36+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/04/26/this-still-feels.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/04/26/bit-tree-photo.html",
+				
+				"content_html": "<p>bit tree #photo #2019 Courtesy of <a href=\"https://iconfactory.com/bc.html\">iconfactory.com/bc.html</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "bit tree #photo #2019 Courtesy of [iconfactory.com/bc.html](https://iconfactory.com/bc.html)\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-26T17:11:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/04/26/bit-tree-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/04/04/yearshttpswwwbbccoukprogrammesmmfh.html",
+				
+				"content_html": "<p>25 years…\n<a href=\"https://www.bbc.co.uk/programmes/m0002mfh\">www.bbc.co.uk/programme&hellip;</a></p>\n",
+				"content_text": "25 years…\n[www.bbc.co.uk/programme...](https://www.bbc.co.uk/programmes/m0002mfh)\n",
+				"date_published": "2019-04-04T08:37:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/04/04/yearshttpswwwbbccoukprogrammesmmfh.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/21/hints-for-computer.html",
+				
+				"content_html": "<p>“Hints for Computer System Design”— Butler Lampson <a href=\"http://bwlampson.site/33-Hints/Abstract.html\">bwlampson.site/33-Hints/&hellip;</a>\n“We are faced with an insurmountable opportunity. (W. Kelley)”</p>\n",
+				"content_text": "“Hints for Computer System Design”— Butler Lampson [bwlampson.site/33-Hints/...](http://bwlampson.site/33-Hints/Abstract.html) \n“We are faced with an insurmountable opportunity. (W. Kelley)”\n",
+				"date_published": "2019-03-21T08:47:39+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/21/hints-for-computer.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/18/if-you-have.html",
+				
+				"content_html": "<p>If you have access to @bbciplayer\nLeave to Remain: www.bbc.co.uk/iplayer/episode/b05xxj3y is compelling, troubling viewing (available for a few days). Also available via the usual streaming channels <a href=\"http://leave2remainthefilm.com\">leave2remainthefilm.com</a></p>\n",
+				"content_text": "If you have access to @bbciplayer\nLeave to Remain: www.bbc.co.uk/iplayer/episode/b05xxj3y is compelling, troubling viewing (available for a few days). Also available via the usual streaming channels [leave2remainthefilm.com](http://leave2remainthefilm.com)\n",
+				"date_published": "2019-03-18T22:01:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/18/if-you-have.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/16/had-a-go.html",
+				
+				"content_html": "<p>Had a go at lino printing at local treasure of a book shop ‘Book-ish’. <a href=\"http://www.book-ish.co.uk\">www.book-ish.co.uk</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Had a go at lino printing at local treasure of a book shop ‘Book-ish’. [www.book-ish.co.uk](http://www.book-ish.co.uk)\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-03-16T18:03:29+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/16/had-a-go.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/10/a-uk-sikh.html",
+				
+				"content_html": "<p>A UK Sikh charity building a network to support those on the streets in need of food.  <a href=\"https://www.bbc.co.uk/sounds/play/m000357v\">www.bbc.co.uk</a></p>\n",
+				"content_text": "A UK Sikh charity building a network to support those on the streets in need of food.  [www.bbc.co.uk](https://www.bbc.co.uk/sounds/play/m000357v)\n",
+				"date_published": "2019-03-10T21:53:13+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/10/a-uk-sikh.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/05/red-photo.html",
+				
+				"content_html": "<p>Red #photo</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" /></p>\n",
+				"content_text": "Red #photo\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" />\n",
+				"date_published": "2019-03-05T09:56:28+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/05/red-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/03/03/i-say-to.html",
+				
+				"content_html": "<p>I say to the 6-year old. “Oh, look! We’re about to be overtaken by a green Ferrari”.\nDistracted for a moment from some Minecraft peril or victory, he looks up.\n“Lamborghini”.</p>\n",
+				"content_text": "I say to the 6-year old. “Oh, look! We’re about to be overtaken by a green Ferrari”.\nDistracted for a moment from some Minecraft peril or victory, he looks up.\n“Lamborghini”.\n",
+				"date_published": "2019-03-03T11:37:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/03/03/i-say-to.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/02/18/thanks-nasa-for.html",
+				
+				"content_html": "<p>Thanks @NASA for the chance to follow along with these adventures <a href=\"https://imgs.xkcd.com/comics/opportunity_rover.png\">imgs.xkcd.com/comics/op&hellip;</a></p>\n",
+				"content_text": "Thanks @NASA for the chance to follow along with these adventures [imgs.xkcd.com/comics/op...](https://imgs.xkcd.com/comics/opportunity_rover.png)\n",
+				"date_published": "2019-02-18T18:20:08+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/02/18/thanks-nasa-for.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/02/12/i-dare-you.html",
+				
+				"content_html": "<p>I dare you to watch this and not jump around the room.\nGuitar, Drum and Bass, Series 1: 2. On Bass&hellip; Tina Weymouth!: www.bbc.co.uk/iplayer/episode/m00023xl</p>\n",
+				"content_text": "I dare you to watch this and not jump around the room.\nGuitar, Drum and Bass, Series 1: 2. On Bass... Tina Weymouth!: www.bbc.co.uk/iplayer/episode/m00023xl \n",
+				"date_published": "2019-02-12T21:01:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/02/12/i-dare-you.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/02/03/a-place-to.html",
+				
+				"content_html": "<p>A place to reflect #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A place to reflect #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-02-03T10:33:57+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/02/03/a-place-to.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/02/02/the-late-jeremy.html",
+				"title": "The late Jeremy Hardy",
+				"content_html": "<p>“I won’t suggest that you vote for the Socialist Alliance; I’ll just tell you that I’m voting for it, for some skittish reason of my own.” <a href=\"https://www.theguardian.com/politics/2001/apr/04/politicalcolumnists.comment\">www.theguardian.com/politics/&hellip;</a>\nThat word ‘skittish’ exemplifies Jeremy Hardy’s material—ever likely to skeeter off from the ostensible topic into something more self-revelatory, coffee-spitting hilarious and skewering to the targets of his humour.</p>\n",
+				"content_text": "“I won’t suggest that you vote for the Socialist Alliance; I’ll just tell you that I’m voting for it, for some skittish reason of my own.” [www.theguardian.com/politics/...](https://www.theguardian.com/politics/2001/apr/04/politicalcolumnists.comment) \nThat word ‘skittish’ exemplifies Jeremy Hardy’s material—ever likely to skeeter off from the ostensible topic into something more self-revelatory, coffee-spitting hilarious and skewering to the targets of his humour.\n",
+				"date_published": "2019-02-02T10:20:07+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/02/02/the-late-jeremy.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/01/30/i-just-love.html",
+				
+				"content_html": "<p>I just love posts like this <a href=\"https://twitter.com/thekatsmithers/status/1090269460894703617\">twitter.com/thekatsmi&hellip;</a> — insights into how others navigate their learning and work</p>\n",
+				"content_text": "I just love posts like this [twitter.com/thekatsmi...](https://twitter.com/thekatsmithers/status/1090269460894703617) — insights into how others navigate their learning and work\n",
+				"date_published": "2019-01-30T08:28:25+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/01/30/i-just-love.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/01/18/and-of-course.html",
+				
+				"content_html": "<p>…and, of course there’s an RSS feed for the new SvN <a href=\"https://daringfireball.net/linked/2019/01/17/svn-exits-medium\">daringfireball.net/linked/20&hellip;</a></p>\n",
+				"content_text": "…and, of course there’s an RSS feed for the new SvN [daringfireball.net/linked/20...](https://daringfireball.net/linked/2019/01/17/svn-exits-medium)\n",
+				"date_published": "2019-01-18T09:48:45+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/01/18/and-of-course.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/01/04/still-impossibly-cute.html",
+				
+				"content_html": "<p>Still impossibly cute. After all these years.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Still impossibly cute. After all these years. \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-04T16:18:00+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/01/04/still-impossibly-cute.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2019/01/02/walk-new-year.html",
+				
+				"content_html": "<p>Walk. New year. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Walk. New year. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-02T09:13:02+00:00",
+				"url": "https://somenotes.stevelloyd.net/2019/01/02/walk-new-year.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/29/people-are-all.html",
+				
+				"content_html": "<p>“people are all really the same: they respond well to kindness; they like to share what they have; they want to bequeath peace to their children” <a href=\"https://www.theguardian.com/commentisfree/2018/dec/29/we-should-be-ashamed-of-our-response-to-this-refugee-crisis\">www.theguardian.com/commentis&hellip;</a></p>\n",
+				"content_text": "“people are all really the same: they respond well to kindness; they like to share what they have; they want to bequeath peace to their children” [www.theguardian.com/commentis...](https://www.theguardian.com/commentisfree/2018/dec/29/we-should-be-ashamed-of-our-response-to-this-refugee-crisis)\n",
+				"date_published": "2018-12-29T18:35:02+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/29/people-are-all.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/27/christmas-day-evening.html",
+				
+				"content_html": "<p>Christmas Day evening, once the cooking and eating was done, browsed this gift.\nCoincidentally, <em>Apollo 13</em> was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Christmas Day evening, once the cooking and eating was done, browsed this gift.\r\nCoincidentally, *Apollo 13* was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-27T14:51:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/27/christmas-day-evening.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/25/the-sage-was.html",
+				
+				"content_html": "<p>The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone!</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone! \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-25T10:09:55+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/25/the-sage-was.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/23/paper-photo.html",
+				
+				"content_html": "<p>Paper. #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Paper. #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-23T20:38:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/23/paper-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/21/brexit-and-technology.html",
+				
+				"content_html": "<p><a href=\"https://www.computerweekly.com/opinion/Brexit-and-technology-How-network-effects-will-damage-UK-IT-industry\">Brexit and technology: How network effects will damage UK IT industry</a> - Ross Anderson</p>\n\n<blockquote>\n<p>What would the world’s engineers think about moving to Britain after a high-profile vote for xenophobia?</p>\n</blockquote>\n",
+				"content_text": "[Brexit and technology: How network effects will damage UK IT industry](https://www.computerweekly.com/opinion/Brexit-and-technology-How-network-effects-will-damage-UK-IT-industry) - Ross Anderson\n\n> What would the world’s engineers think about moving to Britain after a high-profile vote for xenophobia?\n",
+				"date_published": "2018-12-21T10:41:49+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/21/brexit-and-technology.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/20/rock-photo.html",
+				
+				"content_html": "<p>Rock. #photo #2011</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rock. #photo #2011 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-20T12:43:36+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/20/rock-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/18/i-think-mum.html",
+				
+				"content_html": "<p>I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.</p>\n\n<p>Tech assembled with:\n- Raspberry Pi Zero, <a href=\"https://learn.pimoroni.com/tutorial/sandyj/firefly-light\">Pimoroni blog post</a> ,  <a href=\"https://github.com/nfarina/homebridge\">Homebridge</a>, a tiny <a href=\"http://flask.pocoo.org\">Flask</a> app</p>\n\n<p>from flask import Flask</p>\n\n<p>import explorerhat as eh</p>\n\n<p>app = Flask(<strong>name</strong>)</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/on&rsquo;)\ndef on():\n    eh.motor.two.forwards(50)\n    return &lsquo;ON&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/off&rsquo;)\ndef off():\n    eh.motor.two.forwards(0)\n    return &lsquo;OFF&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/brightness/<level>&rsquo;)\ndef brightness(level):\n    eh.motor.two.forwards(int(level) / 2)\n    return &lsquo;Level %s&rsquo; % level</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\r\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.\r\n\r\nTech assembled with:\r\n- Raspberry Pi Zero, [Pimoroni blog post](https://learn.pimoroni.com/tutorial/sandyj/firefly-light) ,  [Homebridge](https://github.com/nfarina/homebridge), a tiny [Flask](http://flask.pocoo.org) app\r\n\r\nfrom flask import Flask\r\n\r\nimport explorerhat as eh\r\n\r\napp = Flask(__name__)\r\n\r\n[@app](https://micro.blog/app)('/on')\r\ndef on():\r\n    eh.motor.two.forwards(50)\r\n    return 'ON'\r\n\r\n[@app](https://micro.blog/app)('/off')\r\ndef off():\r\n    eh.motor.two.forwards(0)\r\n    return 'OFF'\r\n\r\n[@app](https://micro.blog/app)('/brightness/<level>')\r\ndef brightness(level):\r\n    eh.motor.two.forwards(int(level) / 2)\r\n    return 'Level %s' % level\r\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2018-12-18T16:34:09+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/18/i-think-mum.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/13/up-photo.html",
+				
+				"content_html": "<p>Up #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Up #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-13T08:32:58+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/13/up-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/12/yellow-photo.html",
+				
+				"content_html": "<p>Yellow. #photo</p>\n\n<p><img src=\"http://somenotes.stevelloyd.net/uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yellow. #photo \n\n<img src=\"http://somenotes.stevelloyd.net/uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-12T13:01:44+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/12/yellow-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/11/a-very-engaging.html",
+				
+				"content_html": "<p>A very engaging food/travel documentary.</p>\n\n<blockquote>\n<p>Nadiya&rsquo;s Asian Odyssey, Series 1: 2. Nepal: www.bbc.co.uk/iplayer/episode/b0bvkdjb via @bbciplayer</p>\n</blockquote>\n",
+				"content_text": "A very engaging food/travel documentary.\n\n> Nadiya's Asian Odyssey, Series 1: 2. Nepal: www.bbc.co.uk/iplayer/episode/b0bvkdjb via @bbciplayer\n",
+				"date_published": "2018-12-11T16:52:15+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/11/a-very-engaging.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2018/12/11/grey-photo.html",
+				
+				"content_html": "<p>Grey #photo #2018</p>\n\n<p><img src=\"http://somenotes.stevelloyd.net/uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Grey #photo #2018\n\n<img src=\"http://somenotes.stevelloyd.net/uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-11T15:56:52+00:00",
+				"url": "https://somenotes.stevelloyd.net/2018/12/11/grey-photo.html"
+			}
+	]
+}
