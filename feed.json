@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://stevelloyd.micro.blog/2022/04/16/squares-photo.html",
+				
+				"content_html": "<p>Squares. #photo #2021</p>\n\n<p><img src=\"uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Squares. #photo #2021\n\n<img src=\"uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-16T18:55:19+00:00",
+				"url": "https://somenotes.stevelloyd.net/2022/04/16/squares-photo.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2022/04/08/january-before-the.html",
+				"title": "January. Before the storm.",
+				"content_html": "<p><img src=\"uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-04-08T20:18:23+00:00",
+				"url": "https://somenotes.stevelloyd.net/2022/04/08/january-before-the.html"
+			},
+			{
 				"id": "http://stevelloyd.micro.blog/2022/04/08/funny-how-serendipity.html",
 				
 				"content_html": "<p>Funny how serendipity works. Stumbled on this gem—&rsquo;Gavin Esler in conversation with Robert Wyatt.&rsquo;\n<a href=\"https://youtu.be/ewiNCvQ4Tvg\">youtu.be/ewiNCvQ4T&hellip;</a>\n&ldquo;I was saved from the corruption of richness by having totally crooked managers&rdquo;.\nAside from the interview there&rsquo;s a selection of his tracks played by a brilliant band &lsquo;Soupsongs&rsquo;.</p>\n",
@@ -33,16 +49,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2021/12/31/years-end.html",
 				
-				"content_html": "<p>Year&rsquo;s end. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Year's end. 📷 #2021\n\n<img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Year&rsquo;s end. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Year's end. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-31T15:35:08+00:00",
 				"url": "https://somenotes.stevelloyd.net/2021/12/31/years-end.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/12/30/red.html",
 				
-				"content_html": "<p>Red. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Red. 📷 #2021\n\n<img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Red. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Red. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-30T09:37:00+00:00",
 				"url": "https://somenotes.stevelloyd.net/2021/12/30/red.html"
 			},
