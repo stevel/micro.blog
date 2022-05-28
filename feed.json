@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stevelloyd.micro.blog/2022/05/28/currently.html",
+				
+				"content_html": "<p>Currently… 📷 #2022</p>\n\n<p><img src=\"uploads/2022/0e207ba48d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Currently… 📷 #2022\n\n<img src=\"uploads/2022/0e207ba48d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-28T11:32:38+01:00",
+				"url": "https://somenotes.stevelloyd.net/2022/05/28/currently.html"
+			},
+			{
 				"id": "http://stevelloyd.micro.blog/2022/05/17/163614.html",
 				
 				"content_html": "<p>📷 #2022</p>\n\n<p><img src=\"uploads/2022/ca7fadb8c3.jpg\" width=\"599\" height=\"600\" alt=\"Handwritten notebook entry\" /></p>\n",
@@ -41,16 +49,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2022/04/16/squares-photo.html",
 				
-				"content_html": "<p>Squares. #photo #2021</p>\n\n<p><img src=\"uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Squares. #photo #2021\n\n<img src=\"uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Squares. #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Squares. #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2022/976109ffa4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-16T19:55:19+01:00",
 				"url": "https://somenotes.stevelloyd.net/2022/04/16/squares-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2022/04/08/january-before-the.html",
 				"title": "January. Before the storm.",
-				"content_html": "<p><img src=\"uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://somenotes.stevelloyd.net/uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2022/88a7043967.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-08T21:18:23+01:00",
 				"url": "https://somenotes.stevelloyd.net/2022/04/08/january-before-the.html"
 			},
@@ -65,32 +73,32 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2022/03/15/photo-well-this.html",
 				
-				"content_html": "<p>#photo 2021 Well, this was last April, so frosts are still possible.</p>\n\n<p><img src=\"uploads/2022/2c1758c946.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "#photo 2021 Well, this was last April, so frosts are still possible.\n\n<img src=\"uploads/2022/2c1758c946.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>#photo 2021 Well, this was last April, so frosts are still possible.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2022/2c1758c946.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#photo 2021 Well, this was last April, so frosts are still possible.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2022/2c1758c946.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-15T19:51:02+01:00",
 				"url": "https://somenotes.stevelloyd.net/2022/03/15/photo-well-this.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2022/01/09/evening.html",
 				
-				"content_html": "<p>Evening. 📷 #2022</p>\n\n<p><img src=\"uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Evening. 📷 #2022\n\n<img src=\"uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Evening. 📷 #2022</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Evening. 📷 #2022\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2022/7d8f4538df.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-09T18:12:14+01:00",
 				"url": "https://somenotes.stevelloyd.net/2022/01/09/evening.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/12/31/years-end.html",
 				
-				"content_html": "<p>Year&rsquo;s end. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Year's end. 📷 #2021\n\n<img src=\"uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Year&rsquo;s end. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Year's end. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a503109ed8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-31T16:35:08+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/12/31/years-end.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/12/30/red.html",
 				
-				"content_html": "<p>Red. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Red. 📷 #2021\n\n<img src=\"uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Red. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Red. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/abcdbee7e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-30T10:37:00+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/12/30/red.html"
 			},
@@ -113,56 +121,56 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2021/11/30/five-sheep-and.html",
 				
-				"content_html": "<p>Five sheep and a tree. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" /></p>\n",
-				"content_text": "Five sheep and a tree. 📷 #2021\n\n<img src=\"uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" />\n",
+				"content_html": "<p>Five sheep and a tree. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" /></p>\n",
+				"content_text": "Five sheep and a tree. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/3108167c05.jpg\" width=\"600\" height=\"450\" alt=\"Landscape with sheep and a tree\" />\n",
 				"date_published": "2021-11-30T20:24:34+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/11/30/five-sheep-and.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/11/16/like-a-tory.html",
 				
-				"content_html": "<p>Like a Tory politician in a cash for influence scandal, my past catches up with me…</p>\n\n<p><img src=\"uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" /></p>\n",
-				"content_text": "Like a Tory politician in a cash for influence scandal, my past catches up with me…\n\n\n<img src=\"uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" />\n",
+				"content_html": "<p>Like a Tory politician in a cash for influence scandal, my past catches up with me…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" /></p>\n",
+				"content_text": "Like a Tory politician in a cash for influence scandal, my past catches up with me…\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/f1604fc826.jpg\" width=\"548\" height=\"548\" alt=\"\" />\n",
 				"date_published": "2021-11-16T21:26:36+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/11/16/like-a-tory.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/11/10/night-walk.html",
 				
-				"content_html": "<p>Night walk. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Night walk. 📷 #2021\n\n<img src=\"uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Night walk. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Night walk. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/0cb98f997a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-10T09:33:35+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/11/10/night-walk.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/10/23/algaey.html",
 				
-				"content_html": "<p>Algae-y. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Algae-y. 📷 #2021\n\n\n<img src=\"uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Algae-y. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Algae-y. 📷 #2021\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/47d1ef2ef8.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T08:20:31+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/10/23/algaey.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/10/16/omotesando.html",
 				
-				"content_html": "<p>Omotesando. 📷 #2013</p>\n\n<p><img src=\"uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Omotesando. 📷 #2013\n\n<img src=\"uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Omotesando. 📷 #2013</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Omotesando. 📷 #2013\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a8a0c4aede.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-16T20:25:11+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/10/16/omotesando.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/10/09/against.html",
 				
-				"content_html": "<p>Against. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Against. 📷 #2021\n\n\n<img src=\"uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Against. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Against. 📷 #2021\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/52bd8cc9fa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-09T10:34:04+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/10/09/against.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/10/04/phew-microblog-signal.html",
 				
-				"content_html": "<p>Phew! #microblog, Signal and my current reading material still up…</p>\n\n<p><img src=\"uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Phew! #microblog, Signal and my current reading material still up…\n\n\n\n<img src=\"uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Phew! #microblog, Signal and my current reading material still up…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Phew! #microblog, Signal and my current reading material still up…\n\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/196b7b26d7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-04T22:17:04+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/10/04/phew-microblog-signal.html"
 			},
@@ -177,8 +185,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2021/09/18/framed.html",
 				
-				"content_html": "<p>Framed. 📷 #2021</p>\n\n<p><img src=\"uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Framed. 📷 #2021\n\n<img src=\"uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Framed. 📷 #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Framed. 📷 #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/686e8d6bd6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-18T08:29:05+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/09/18/framed.html"
 			},
@@ -193,16 +201,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2021/05/20/porthclais-photo.html",
 				
-				"content_html": "<p>Porthclais. #photo #2021</p>\n\n<p><img src=\"uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Porthclais. #photo #2021 \n\n<img src=\"uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Porthclais. #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Porthclais. #photo #2021 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/39e32b4c35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-20T23:07:48+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/05/20/porthclais-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/02/28/moon-reflection-photo.html",
 				
-				"content_html": "<p>Moon, reflection. 📷 #photo #2021</p>\n\n<p><img src=\"uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Moon, reflection. 📷 #photo #2021\n\n<img src=\"uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Moon, reflection. 📷 #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Moon, reflection. 📷 #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/a64c4c43e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-28T10:01:49+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/02/28/moon-reflection-photo.html"
 			},
@@ -225,72 +233,72 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2021/02/16/welltrodden-path-photo.html",
 				
-				"content_html": "<p>Well-trodden path. 📷 #photo #2021</p>\n\n<p><img src=\"uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Well-trodden path. 📷 #photo #2021\n\n<img src=\"uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Well-trodden path. 📷 #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Well-trodden path. 📷 #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/922f6e3619.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-16T17:37:41+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/02/16/welltrodden-path-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/02/13/happy-losar-photo.html",
 				
-				"content_html": "<p>Happy Losar! #photo #2007</p>\n\n<p><img src=\"uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Happy Losar! #photo #2007\n\n<img src=\"uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Happy Losar! #photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Happy Losar! #photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/8dfcd167a3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-13T11:20:28+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/02/13/happy-losar-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/02/10/before-and-after.html",
 				
-				"content_html": "<p>Before and after the snow. #photo #2021 📷</p>\n\n<p><img src=\"uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" /></p>\n",
-				"content_text": "Before and after the snow. #photo #2021 📷\n\n<img src=\"uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" />\n",
+				"content_html": "<p>Before and after the snow. #photo #2021 📷</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" /></p>\n",
+				"content_text": "Before and after the snow. #photo #2021 📷\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/61710cb293.jpg\" width=\"600\" height=\"328\" alt=\"\" />\n",
 				"date_published": "2021-02-10T09:36:38+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/02/10/before-and-after.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/02/08/after-the-snow.html",
 				
-				"content_html": "<p>After the snow. #photo #2021</p>\n\n<p><img src=\"uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "After the snow. #photo #2021\n\n<img src=\"uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>After the snow. #photo #2021</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "After the snow. #photo #2021\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/5a14395e99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-08T09:34:33+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/02/08/after-the-snow.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/01/15/thingswhicharenearyetfar-photo.html",
 				
-				"content_html": "<p>#ThingsWhichAreNearYetFar #photo 2019</p>\n\n<p><img src=\"uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "#ThingsWhichAreNearYetFar #photo 2019\n\n<img src=\"uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>#ThingsWhichAreNearYetFar #photo 2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#ThingsWhichAreNearYetFar #photo 2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/9eb0249b91.jpg\" width=\"588\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-15T09:34:09+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/01/15/thingswhicharenearyetfar-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/01/14/thingswhicharenearyetfar-photo.html",
 				
-				"content_html": "<p>#ThingsWhichAreNearYetFar #photo #2019</p>\n\n<p><img src=\"uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "#ThingsWhichAreNearYetFar #photo #2019\n\n<img src=\"uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>#ThingsWhichAreNearYetFar #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#ThingsWhichAreNearYetFar #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/527c0c3e6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-14T10:34:48+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/01/14/thingswhicharenearyetfar-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/01/09/souvenirs-photo.html",
 				
-				"content_html": "<p>Souvenirs. #photo #2013</p>\n\n<p><img src=\"uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" /></p>\n",
-				"content_text": "Souvenirs. #photo #2013\n\n<img src=\"uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" />\n",
+				"content_html": "<p>Souvenirs. #photo #2013</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" /></p>\n",
+				"content_text": "Souvenirs. #photo #2013\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/64d482bea7.jpg\" width=\"568\" height=\"568\" alt=\"Souvenirs\" />\n",
 				"date_published": "2021-01-09T13:35:13+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/01/09/souvenirs-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2021/01/04/stationery-photo.html",
 				
-				"content_html": "<p>Stationery. #photo #2012</p>\n\n<p><img src=\"uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Stationery. #photo #2012\n\n<img src=\"uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Stationery. #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stationery. #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2021/5d6ebfb62a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-04T23:09:11+01:00",
 				"url": "https://somenotes.stevelloyd.net/2021/01/04/stationery-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/12/20/wispy-photo.html",
 				
-				"content_html": "<p>Wispy. #photo #2020</p>\n\n<p><img src=\"uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Wispy. #photo #2020\n\n<img src=\"uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Wispy. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Wispy. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/82c653f974.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-12-20T11:26:44+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/12/20/wispy-photo.html"
 			},
@@ -305,120 +313,120 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/12/08/rock-and-water.html",
 				
-				"content_html": "<p>Rock and water. #photo #2020</p>\n\n<p><img src=\"uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Rock and water. #photo #2020\n\n<img src=\"uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Rock and water. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Rock and water. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/3b10c63e03.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-09T00:54:43+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/12/08/rock-and-water.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/12/06/rock-photo.html",
 				
-				"content_html": "<p>Rock. #photo #2020</p>\n\n<p><img src=\"uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Rock. #photo #2020\n\n<img src=\"uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Rock. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Rock. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/f90f0bc218.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-06T22:34:02+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/12/06/rock-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/11/29/misty-photo.html",
 				
-				"content_html": "<p>Misty. #photo #2020</p>\n\n<p><img src=\"uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Misty. #photo #2020\n\n<img src=\"uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Misty. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Misty. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/a031d6e48b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-29T04:54:47+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/11/29/misty-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/11/08/its-a-new.html",
 				
-				"content_html": "<p>It’s a new day. #photo #2020 📷</p>\n\n<p><img src=\"uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "It’s a new day. #photo #2020 📷 \n\n<img src=\"uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>It’s a new day. #photo #2020 📷</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It’s a new day. #photo #2020 📷 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/c1b98e329d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-08T12:56:49+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/11/08/its-a-new.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/11/05/tactile-photo.html",
 				
-				"content_html": "<p>Tactile. #photo #2015</p>\n\n<p><img src=\"uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tactile. #photo #2015\n\n<img src=\"uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tactile. #photo #2015</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tactile. #photo #2015\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0cc99ff8c2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-05T09:07:35+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/11/05/tactile-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/11/01/nekochan-photo.html",
 				
-				"content_html": "<p>Neko-chan #photo #2020</p>\n\n<p><img src=\"uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Neko-chan #photo #2020\n\n<img src=\"uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Neko-chan #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Neko-chan #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2b4546aa46.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-11-01T09:49:32+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/11/01/nekochan-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/10/31/holly-photo.html",
 				
-				"content_html": "<p>Holly #photo #2020</p>\n\n<p><img src=\"uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Holly #photo #2020\n\n<img src=\"uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Holly #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Holly #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/6a15dbce68.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-31T16:04:32+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/10/31/holly-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/10/24/foamy-photo.html",
 				
-				"content_html": "<p>Foamy. #photo #2020</p>\n\n<p><img src=\"uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" /></p>\n",
-				"content_text": "Foamy. #photo #2020 \n\n<img src=\"uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" />\n",
+				"content_html": "<p>Foamy. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" /></p>\n",
+				"content_text": "Foamy. #photo #2020 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/3dda66a255.jpg\" width=\"450\" height=\"600\" alt=\"Fountain to which some kind soul has added detergent \" />\n",
 				"date_published": "2020-10-24T11:20:08+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/10/24/foamy-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/10/15/same-tree-different.html",
 				
-				"content_html": "<p>Same tree. Different year. #photo #2017.</p>\n\n<p><img src=\"uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Same tree. Different year. #photo #2017.\n\n<img src=\"uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Same tree. Different year. #photo #2017.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Same tree. Different year. #photo #2017.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/a576ee992f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-15T08:31:08+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/10/15/same-tree-different.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/10/14/midwales-i-like.html",
 				
-				"content_html": "<p>08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020</p>\n\n<p><img src=\"uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020\n\n<img src=\"uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "08:30 mid-Wales. I like this tree. #adayinthelife #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2a9098f559.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-14T09:18:09+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/10/14/midwales-i-like.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/09/10/peekaboo-photo.html",
 				
-				"content_html": "<p>Peekaboo. #photo #2020</p>\n\n<p><img src=\"uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Peekaboo. #photo #2020\n\n<img src=\"uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Peekaboo. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Peekaboo. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/02be699b73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-10T07:44:58+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/09/10/peekaboo-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/09/06/brick-photo.html",
 				
-				"content_html": "<p>Brick. #photo #2020</p>\n\n<p><img src=\"uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Brick. #photo #2020\n\n<img src=\"uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Brick. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Brick. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/da6afc2766.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-06T11:15:59+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/09/06/brick-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/08/29/linking-hearts-with.html",
 				
-				"content_html": "<p>&ldquo;Linking Hearts with Brush and Ink&rdquo;\nNHK&rsquo;s Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. <a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n\n<p><img src=\"uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"Linking Hearts with Brush and Ink\" \r\nNHK's Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. [www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/) \n\n<img src=\"uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;Linking Hearts with Brush and Ink&rdquo;\nNHK&rsquo;s Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. <a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"Linking Hearts with Brush and Ink\" \r\nNHK's Persian announcer Ali Noorani looks at the place calligraphy plays in Japan. [www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2076020/) \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/b99de75100.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-29T09:48:29+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/08/29/linking-hearts-with.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/08/22/vertical-photo.html",
 				
-				"content_html": "<p>Vertical. #photo #2020</p>\n\n<p><img src=\"uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Vertical. #photo #2020\n\n<img src=\"uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Vertical. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vertical. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/62e116bf37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-22T12:42:58+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/08/22/vertical-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/08/05/beam-photo.html",
 				
-				"content_html": "<p>Beam. #photo #2020</p>\n\n<p><img src=\"uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Beam. #photo #2020\n\n<img src=\"uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Beam. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beam. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bcef8c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-05T09:36:40+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/08/05/beam-photo.html"
 			},
@@ -433,24 +441,24 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/07/28/view-photo.html",
 				
-				"content_html": "<p>View. #photo #2018</p>\n\n<p><img src=\"uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "View. #photo #2018\n\n<img src=\"uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>View. #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "View. #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/2e2dc0fef1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-07-28T09:07:08+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/07/28/view-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/07/12/signage-photo.html",
 				
-				"content_html": "<p>Signage. #photo #2020</p>\n\n<p><img src=\"uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Signage. #photo #2020\n\n<img src=\"uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Signage. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Signage. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/caf897ce2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-12T08:09:58+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/07/12/signage-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/07/11/weathered-photo.html",
 				
-				"content_html": "<p>Weathered. #photo #2020</p>\n\n<p><img src=\"uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Weathered. #photo #2020\n\n<img src=\"uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Weathered. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Weathered. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/325fa3267d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-11T06:56:30+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/07/11/weathered-photo.html"
 			},
@@ -473,8 +481,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/05/30/use-when-programming.html",
 				
-				"content_html": "<p>Use when programming. #photo #2017</p>\n\n<p><img src=\"uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Use when programming. #photo #2017\n\n<img src=\"uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Use when programming. #photo #2017</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Use when programming. #photo #2017\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/9f0c0ffd41.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-30T04:30:40+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/05/30/use-when-programming.html"
 			},
@@ -513,8 +521,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/05/08/the-resources-were.html",
 				
-				"content_html": "<blockquote>\n<p>The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher&rsquo;s stone.</p>\n</blockquote>\n\n<p>– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. &ldquo;Derek Jarman&rdquo;. (img via bfi)\n💬</p>\n\n<p><img src=\"uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" /></p>\n",
-				"content_text": "> The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher's stone.\r\n\r\n– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. \"Derek Jarman\". (img via bfi)\r\n💬\n\n<img src=\"uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" />\n",
+				"content_html": "<blockquote>\n<p>The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher&rsquo;s stone.</p>\n</blockquote>\n\n<p>– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. &ldquo;Derek Jarman&rdquo;. (img via bfi)\n💬</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" /></p>\n",
+				"content_text": "> The resources were small enough; so if independence were a form of purity, I had my hands on the philosopher's stone.\r\n\r\n– Derek Jarman on his delight of the Super-8 medium. Michael Charlesworth. 2011. \"Derek Jarman\". (img via bfi)\r\n💬\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/d502bf1e88.jpg\" width=\"480\" height=\"270\" alt=\"\" />\n",
 				"date_published": "2020-05-08T09:45:23+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/05/08/the-resources-were.html"
 			},
@@ -553,8 +561,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/04/28/photo.html",
 				
-				"content_html": "<p>#photo #2007</p>\n\n<p><img src=\"uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "#photo #2007\n\n<img src=\"uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>#photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "#photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfc8b0e5f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-28T07:40:12+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/04/28/photo.html"
 			},
@@ -569,16 +577,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/04/10/my-colleague-expressed.html",
 				
-				"content_html": "<p>My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes.</p>\n\n<p><img src=\"uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes. \n\n\n<img src=\"uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My colleague expressed concern about my attempt at making wild garlic pesto (not garlicky enough).\n“Do you have enough to try again?”\nOh, yes. \n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/222e091515.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-10T07:54:28+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/04/10/my-colleague-expressed.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/04/05/of-course-i.html",
 				
-				"content_html": "<p>Of course I always wear a bow tie while eating my meals to this day.</p>\n\n<p><img src=\"uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Of course I always wear a bow tie while eating my meals to this day.\n\n<img src=\"uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Of course I always wear a bow tie while eating my meals to this day.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Of course I always wear a bow tie while eating my meals to this day.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/886bfba8da.jpg\" width=\"580\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-05T12:35:34+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/04/05/of-course-i.html"
 			},
@@ -593,8 +601,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/03/23/no-need-for.html",
 				
-				"content_html": "<p>No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors</p>\n\n<p><img src=\"uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors\n\n<img src=\"uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "No need for dogs to practice ‘social distancing’ — essential for owners though. #photo #2020 Mynydd Llangors\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0378a66f0e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-23T10:10:28+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/03/23/no-need-for.html"
 			},
@@ -609,8 +617,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/03/01/a-vision-of.html",
 				
-				"content_html": "<p>A vision of the future. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "A vision of the future. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>A vision of the future. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A vision of the future. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/c2fba2a2b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-02T00:37:23+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/03/01/a-vision-of.html"
 			},
@@ -625,120 +633,120 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/29/leap-maybe-not.html",
 				
-				"content_html": "<p>Leap. Maybe not today. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Leap. Maybe not today. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Leap. Maybe not today. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Leap. Maybe not today. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/91d9d4d1a3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-29T21:21:10+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/29/leap-maybe-not.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/28/below-this-raspberry.html",
 				
-				"content_html": "<p>Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Below this Raspberry Pi 4 case are handy cutouts for attaching Lego. Which is nice.  #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/8880ee940d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-29T00:19:09+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/28/below-this-raspberry.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/27/together-mountains-boy.html",
 				
-				"content_html": "<p>Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Together. Mountains, boy, memory of a birthday celebration at the summit. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e578bb759c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-28T00:49:21+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/27/together-mountains-boy.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/26/the-hills-didnt.html",
 				
-				"content_html": "<p>The hills didn’t escape a dusting of snow. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "The hills didn’t escape a dusting of snow. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>The hills didn’t escape a dusting of snow. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The hills didn’t escape a dusting of snow. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2dfde6996e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-26T23:18:51+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/26/the-hills-didnt.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/25/the-hurdle-of.html",
 				
-				"content_html": "<p>The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. <a href=\"https://en.m.wikipedia.org/wiki/Matching_Mole\">en.m.wikipedia.org/wiki/Matc&hellip;</a> Totally yummy. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. [en.m.wikipedia.org/wiki/Matc...](https://en.m.wikipedia.org/wiki/Matching_Mole) Totally yummy. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. <a href=\"https://en.m.wikipedia.org/wiki/Matching_Mole\">en.m.wikipedia.org/wiki/Matc&hellip;</a> Totally yummy. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The hurdle of starting the day has been cleared with the help of this. I’m also cheered by the red star on top. It’s the Marmalade that Matching Mole would have happily endorsed. [en.m.wikipedia.org/wiki/Matc...](https://en.m.wikipedia.org/wiki/Matching_Mole) Totally yummy. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f6953b196c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-25T10:07:48+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/25/the-hurdle-of.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/24/if-only-the.html",
 				
-				"content_html": "<p>If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "If only the current available from a USB port was double what the spec allows. Running a Pi 4 is pushing it. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/6015e0a93c.jpg\" width=\"600\" height=\"382\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-24T23:42:13+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/24/if-only-the.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/23/station-shown-today.html",
 				
-				"content_html": "<p>Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb</p>\n\n<p><img src=\"uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb\n\n<img src=\"uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Station. Shown today, second photo (source: spellerweb.net) is a postcard from 1910. The building was demolished in the late 1960s. I wonder how many of the figures on the platform survived the next 10 years. #mbfeb\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/55bf7e5c69.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0294a73efa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-23T18:39:47+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/23/station-shown-today.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/22/what-causes-this.html",
 				
-				"content_html": "<p>What causes this spectacle? Sodium I guess. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "What causes this spectacle? Sodium I guess. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>What causes this spectacle? Sodium I guess. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "What causes this spectacle? Sodium I guess. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f75e9d484e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-22T22:12:49+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/22/what-causes-this.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/21/this-one-steppingstone.html",
 				
-				"content_html": "<p>This, one stepping-stone on my progress as an engineer. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "This, one stepping-stone on my progress as an engineer. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>This, one stepping-stone on my progress as an engineer. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "This, one stepping-stone on my progress as an engineer. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ead358a1ae.jpg\" width=\"458\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-21T21:36:45+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/21/this-one-steppingstone.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/20/scale-these-weighed.html",
 				
-				"content_html": "<p>Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Scale. These weighed ingredients for jam tarts, mince pies, with that fine, crumbly pastry I haven’t tasted for years. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/5f47bf539a.jpg\" width=\"543\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-20T21:13:54+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/20/scale-these-weighed.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/19/space-mbfeb.html",
 				
-				"content_html": "<p>Space. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Space. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Space. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Space. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/546449a4a6.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-19T19:12:04+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/19/space-mbfeb.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/18/i-oppose-this.html",
 				
-				"content_html": "<p>I oppose this takeover of my chair #mbfeb</p>\n\n<p><img src=\"uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I oppose this takeover of my chair #mbfeb\n\n<img src=\"uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I oppose this takeover of my chair #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I oppose this takeover of my chair #mbfeb\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/b62a4cca50.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-18T22:03:46+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/18/i-oppose-this.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/17/cool-what-i.html",
 				
-				"content_html": "<p>Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020</p>\n\n<p><img src=\"uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020\n\n<img src=\"uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Cool — what I think of this tree, no matter how many times I see it. #mbfeb #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/00eb5dfcfe.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-17T20:26:51+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/17/cool-what-i.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/16/theres-a-brief.html",
 				
-				"content_html": "<p>There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "There’s a brief rest from the downpours, but the Rhiangoll is very much in spate. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bc7bbd66.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-16T21:52:13+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/16/theres-a-brief.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/15/theres-a-stream.html",
 				
-				"content_html": "<p>There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb</p>\n\n<p><img src=\"uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb \n\n<img src=\"uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There’s a stream running down the road, and branches down. The balance of nature is disturbed. #mbfeb \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/bfa0103f00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-15T20:14:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/15/theres-a-stream.html"
 			},
@@ -753,112 +761,112 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/14/warmth-comes-from.html",
 				
-				"content_html": "<p>Warmth comes from the chilli relish at the top. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Warmth comes from the chilli relish at the top. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Warmth comes from the chilli relish at the top. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Warmth comes from the chilli relish at the top. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0a64865b14.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-14T22:29:17+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/14/warmth-comes-from.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/13/rise-mbfeb-photo.html",
 				
-				"content_html": "<p>Rise. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Rise. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Rise. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rise. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/75ecd80091.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-13T18:39:03+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/13/rise-mbfeb-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/12/attachment-me-this.html",
 				
-				"content_html": "<p>Attachment😋. Me + this tiny cupcake. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Attachment😋. Me + this tiny cupcake. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Attachment😋. Me + this tiny cupcake. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Attachment😋. Me + this tiny cupcake. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/d4f20a3f61.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-12T16:27:49+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/12/attachment-me-this.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/11/this-exhibition-promises.html",
 				
-				"content_html": "<p>This exhibition promises to be plain fabulous. #mbfeb <a href=\"https://canterburymuseums.co.uk/events/comics/\">canterburymuseums.co.uk/events/co&hellip;</a></p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "This exhibition promises to be plain fabulous. #mbfeb [canterburymuseums.co.uk/events/co...](https://canterburymuseums.co.uk/events/comics/)\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>This exhibition promises to be plain fabulous. #mbfeb <a href=\"https://canterburymuseums.co.uk/events/comics/\">canterburymuseums.co.uk/events/co&hellip;</a></p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "This exhibition promises to be plain fabulous. #mbfeb [canterburymuseums.co.uk/events/co...](https://canterburymuseums.co.uk/events/comics/)\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cd0f0e3869.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-11T23:16:15+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/11/this-exhibition-promises.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/11/sign-spam-onigiri.html",
 				
-				"content_html": "<p>Sign. Spam Onigiri, yum. #mbfeb #photo #2016</p>\n\n<p><img src=\"uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sign. Spam Onigiri, yum. #mbfeb #photo #2016\n\n<img src=\"uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sign. Spam Onigiri, yum. #mbfeb #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sign. Spam Onigiri, yum. #mbfeb #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/0d39f7fd3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-11T13:07:20+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/11/sign-spam-onigiri.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/09/lull-mbfeb-photo.html",
 				
-				"content_html": "<p>Lull. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Lull. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Lull. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Lull. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/f2bd58604d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-09T18:03:44+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/09/lull-mbfeb-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/08/contrast-mbfeb-photo.html",
 				
-				"content_html": "<p>Contrast. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Contrast. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Contrast. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Contrast. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/682787442c.jpg\" width=\"600\" height=\"395\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-08T19:12:44+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/08/contrast-mbfeb-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/07/above-mbfeb-photo.html",
 				
-				"content_html": "<p>Above. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Above. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Above. #mbfeb #photo #2020</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Above. #mbfeb #photo #2020\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/46bd04c1ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-07T19:11:09+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/07/above-mbfeb-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/06/plant-mbfeb-photo.html",
 				
-				"content_html": "<p>Plant. #mbfeb #photo #2012</p>\n\n<p><img src=\"uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Plant. #mbfeb #photo #2012\n\n<img src=\"uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Plant. #mbfeb #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Plant. #mbfeb #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/013d7393a2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-06T19:51:52+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/06/plant-mbfeb-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/05/hide-mbfeb-oops.html",
 				
-				"content_html": "<p>Hide. #mbfeb Oops! I’m in the picture.</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Hide. #mbfeb Oops! I’m in the picture. \n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Hide. #mbfeb Oops! I’m in the picture.</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Hide. #mbfeb Oops! I’m in the picture. \n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/84c2196052.jpg\" width=\"429\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-05T21:44:02+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/05/hide-mbfeb-oops.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/04/spot-mbfeb.html",
 				
-				"content_html": "<p>Spot. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Spot. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Spot. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Spot. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/e0fbd6cc31.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-04T19:52:03+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/04/spot-mbfeb.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/03/reflect-on-music.html",
 				
-				"content_html": "<p>Reflect on music. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Reflect on music. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Reflect on music. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Reflect on music. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ab5730f988.jpg\" width=\"600\" height=\"457\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-03T18:46:13+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/03/reflect-on-music.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/02/sight-mbfeb.html",
 				
-				"content_html": "<p>Sight. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Sight. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Sight. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Sight. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/ca8174c72b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-02T16:41:18+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/02/sight-mbfeb.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/02/01/open-mbfeb.html",
 				
-				"content_html": "<p>Open. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Open. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Open. #mbfeb</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Open. #mbfeb\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2020/2109165f94.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-01T20:10:56+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/02/01/open-mbfeb.html"
 			},
@@ -881,24 +889,24 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2020/01/24/stripe-photo.html",
 				
-				"content_html": "<p>Stripe. #photo #2020</p>\n\n<p><img src=\"uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Stripe. #photo #2020\n\n<img src=\"uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Stripe. #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stripe. #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/cf2d554dcb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-01-24T11:18:48+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/01/24/stripe-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/01/12/fascinating-interview-with.html",
 				
-				"content_html": "<p><a href=\"https://lexfridman.com/donald-knuth/\">Fascinating interview with Donald Knuth</a> — apart from the obvious, regarding his writing process (from 39:16).</p>\n\n<p>Which led me down a short exploration in expanding my limited knowledge of <a href=\"https://orgmode.org\">org-mode</a> and its ability to evaluate code blocks in mixed source languages within an otherwise textual file.</p>\n\n<p><img src=\"uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" /></p>\n",
-				"content_text": "[Fascinating interview with Donald Knuth](https://lexfridman.com/donald-knuth/) — apart from the obvious, regarding his writing process (from 39:16).\r\n\r\nWhich led me down a short exploration in expanding my limited knowledge of [org-mode](https://orgmode.org) and its ability to evaluate code blocks in mixed source languages within an otherwise textual file. \r\n\r\n\n\n<img src=\"uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://lexfridman.com/donald-knuth/\">Fascinating interview with Donald Knuth</a> — apart from the obvious, regarding his writing process (from 39:16).</p>\n\n<p>Which led me down a short exploration in expanding my limited knowledge of <a href=\"https://orgmode.org\">org-mode</a> and its ability to evaluate code blocks in mixed source languages within an otherwise textual file.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" /></p>\n",
+				"content_text": "[Fascinating interview with Donald Knuth](https://lexfridman.com/donald-knuth/) — apart from the obvious, regarding his writing process (from 39:16).\r\n\r\nWhich led me down a short exploration in expanding my limited knowledge of [org-mode](https://orgmode.org) and its ability to evaluate code blocks in mixed source languages within an otherwise textual file. \r\n\r\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/49bb6311fd.jpg\" width=\"412\" height=\"267\" alt=\"\" />\n",
 				"date_published": "2020-01-12T22:29:01+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/01/12/fascinating-interview-with.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2020/01/03/ponies-hills-hillponies.html",
 				
-				"content_html": "<p>Ponies + hills = Hill-ponies #photo #2020</p>\n\n<p><img src=\"uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ponies + hills = Hill-ponies #photo #2020\n\n<img src=\"uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ponies + hills = Hill-ponies #photo #2020</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ponies + hills = Hill-ponies #photo #2020\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2020/609a69fb02.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-03T17:21:25+01:00",
 				"url": "https://somenotes.stevelloyd.net/2020/01/03/ponies-hills-hillponies.html"
 			},
@@ -913,136 +921,136 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/12/21/dolwyddelan-photo.html",
 				
-				"content_html": "<p>Dolwyddelan. #photo #2018</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Dolwyddelan. #photo #2018\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Dolwyddelan. #photo #2018</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Dolwyddelan. #photo #2018\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/64381f9f35.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-21T10:00:38+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/12/21/dolwyddelan-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/11/22/well-sunny-photo.html",
 				
-				"content_html": "<p>Well sunny. #photo #2007</p>\n\n<p><img src=\"uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Well sunny. #photo #2007\n\n<img src=\"uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Well sunny. #photo #2007</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Well sunny. #photo #2007\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d1f15e6105.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-11-22T12:13:03+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/11/22/well-sunny-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/11/18/eiheiji-photo.html",
 				
-				"content_html": "<p>Eiheiji. #photo #2016</p>\n\n<p><img src=\"uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Eiheiji. #photo #2016\n\n<img src=\"uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Eiheiji. #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Eiheiji. #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/b507ddfeb7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-18T23:43:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/11/18/eiheiji-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/11/09/your-microbits-name.html",
 				"title": "Your micro:bit's name — try this in #MakeCode",
-				"content_html": "<p>I&rsquo;m re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here&rsquo;s one about each device&rsquo;s unique name you can try in MakeCode.</p>\n\n<p>Each micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:</p>\n\n<ul>\n<li>in a new project, swap into JavaScript editor view and type</li>\n</ul>\n\n<p><code>let myName = control.deviceName()</code></p>\n\n<p><code>myName</code> is going to be the variable where we can access the micro:bit&rsquo;s name.</p>\n\n<ul>\n<li>now swap back to blocks view and you&rsquo;ll see a <code>myName</code> variable being set—you can display it as you would with any text, such as in a <code>show string</code> block.</li>\n</ul>\n\n<p>You&rsquo;ll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example <em>gozut</em> — yours will be different.</p>\n\n<p>What&rsquo;s the use? Say you&rsquo;re using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit&rsquo;s values.</p>\n\n<p><img src=\"uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" /></p>\n",
-				"content_text": "I'm re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here's one about each device's unique name you can try in MakeCode.\n\nEach micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:\n\n- in a new project, swap into JavaScript editor view and type \n\n`let myName = control.deviceName()`\n\n`myName` is going to be the variable where we can access the micro:bit's name.\n\n- now swap back to blocks view and you'll see a `myName` variable being set—you can display it as you would with any text, such as in a `show string` block. \n\nYou'll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example *gozut* — yours will be different.\n\nWhat's the use? Say you're using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit's values.\n\n<img src=\"uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here&rsquo;s one about each device&rsquo;s unique name you can try in MakeCode.</p>\n\n<p>Each micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:</p>\n\n<ul>\n<li>in a new project, swap into JavaScript editor view and type</li>\n</ul>\n\n<p><code>let myName = control.deviceName()</code></p>\n\n<p><code>myName</code> is going to be the variable where we can access the micro:bit&rsquo;s name.</p>\n\n<ul>\n<li>now swap back to blocks view and you&rsquo;ll see a <code>myName</code> variable being set—you can display it as you would with any text, such as in a <code>show string</code> block.</li>\n</ul>\n\n<p>You&rsquo;ll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example <em>gozut</em> — yours will be different.</p>\n\n<p>What&rsquo;s the use? Say you&rsquo;re using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit&rsquo;s values.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" /></p>\n",
+				"content_text": "I'm re-visiting the micro:bit after a couple of years absence, for some new projects. Some notes and explorations on this to come. But here's one about each device's unique name you can try in MakeCode.\n\nEach micro:bit has a unique serial number set at manufacture which can be displayed as a five character name. You can display it by:\n\n- in a new project, swap into JavaScript editor view and type \n\n`let myName = control.deviceName()`\n\n`myName` is going to be the variable where we can access the micro:bit's name.\n\n- now swap back to blocks view and you'll see a `myName` variable being set—you can display it as you would with any text, such as in a `show string` block. \n\nYou'll need to download your code to a real micro:bit, then take a look at the result, which will be five characters, for example *gozut* — yours will be different.\n\nWhat's the use? Say you're using several micro:bits to measure temperature and sending their data over Bluetooth. By including the name in the data, you can distingush each micro:bit's values.\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/82bf1d1fdc.jpg\" width=\"469\" height=\"353\" alt=\"\" />\n",
 				"date_published": "2019-11-09T19:22:04+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/11/09/your-microbits-name.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/11/03/a-view-from.html",
 				
-				"content_html": "<p>A view from a hill. #photo #2019</p>\n\n<p><img src=\"uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" /></p>\n",
-				"content_text": "A view from a hill. #photo #2019\n\n<img src=\"uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" />\n",
+				"content_html": "<p>A view from a hill. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" /></p>\n",
+				"content_text": "A view from a hill. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/7a0a5c71b3.jpg\" width=\"600\" height=\"187\" alt=\"\" />\n",
 				"date_published": "2019-11-03T16:09:15+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/11/03/a-view-from.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/10/26/two-trees-photo.html",
 				
-				"content_html": "<p>Two trees. #photo #2012</p>\n\n<p><img src=\"uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Two trees. #photo #2012\n\n<img src=\"uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Two trees. #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Two trees. #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/5cdfd98223.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-10-26T12:42:17+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/10/26/two-trees-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/10/26/some-trees-photo.html",
 				
-				"content_html": "<p>Some trees. #photo #2019</p>\n\n<p><img src=\"uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Some trees. #photo #2019\n\n<img src=\"uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Some trees. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Some trees. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d83c72ef12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-26T12:23:14+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/10/26/some-trees-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/10/09/sissinghurst-photo.html",
 				
-				"content_html": "<p>Sissinghurst #photo #2012</p>\n\n<p><img src=\"uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sissinghurst #photo #2012\n\n<img src=\"uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sissinghurst #photo #2012</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sissinghurst #photo #2012\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/bdadaae5c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-09T12:45:07+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/10/09/sissinghurst-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/29/more-apples-photo.html",
 				
-				"content_html": "<p>More apples. #photo #2019</p>\n\n<p><img src=\"uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "More apples. #photo #2019\n\n\n<img src=\"uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>More apples. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "More apples. #photo #2019\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/24565f6445.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-29T18:39:49+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/29/more-apples-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/27/seaside-photo.html",
 				
-				"content_html": "<p>Seaside. #photo #2019</p>\n\n<p><img src=\"uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Seaside. #photo #2019\n\n<img src=\"uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Seaside. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Seaside. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d18e3bea4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-27T17:13:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/27/seaside-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/16/fragments-photo.html",
 				
-				"content_html": "<p>Fragments. #photo #2019</p>\n\n<p><img src=\"uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Fragments. #photo #2019\n\n\n<img src=\"uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Fragments. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fragments. #photo #2019\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/15e822946c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-16T18:32:34+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/16/fragments-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/14/camcrag-tentastic-tentfest.html",
 				
-				"content_html": "<p>camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees</p>\n\n<p><img src=\"uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees\n\n<img src=\"uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "camcrag Tentastic Tentfest day salvaged 600 tents today for Calais and other refugees\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/ccbfdab649.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/2661a8e41c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://somenotes.stevelloyd.net/uploads/2019/12c384638b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-14T16:51:53+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/14/camcrag-tentastic-tentfest.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/08/green-photo.html",
 				
-				"content_html": "<p>Green. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Green. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Green. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Green. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/cf3303f94b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-08T15:24:54+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/08/green-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/09/06/saltaire-photo.html",
 				
-				"content_html": "<p>Saltaire. #photo #2019</p>\n\n<p><img src=\"uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Saltaire. #photo #2019\n\n<img src=\"uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Saltaire. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Saltaire. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a6c5b50c67.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-06T15:01:16+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/09/06/saltaire-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/08/10/apples-photo.html",
 				
-				"content_html": "<p>Apples. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Apples. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Apples. #photo #2019</p>\n\n<p><a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Apples. #photo #2019\n\n<a href=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\"><img src=\"https://somenotes.stevelloyd.net/uploads/2019/ddf0585fe3.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-10T10:59:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/08/10/apples-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/07/24/embedded-architecture-photo.html",
 				
-				"content_html": "<p>Embedded Architecture #photo #2016</p>\n\n<p><img src=\"uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Embedded Architecture #photo #2016\n\n<img src=\"uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Embedded Architecture #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Embedded Architecture #photo #2016\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/308eb5392b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-24T08:12:26+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/07/24/embedded-architecture-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/07/18/mangaexhibition-photo-british.html",
 				
-				"content_html": "<p>#MangaExhibition #photo #2019 British Museum</p>\n\n<p><img src=\"uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "#MangaExhibition #photo #2019 British Museum \n\n<img src=\"uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>#MangaExhibition #photo #2019 British Museum</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#MangaExhibition #photo #2019 British Museum \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/dd2e898ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-18T09:02:24+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/07/18/mangaexhibition-photo-british.html"
 			},
@@ -1073,32 +1081,32 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/06/25/so-a-timely.html",
 				
-				"content_html": "<p>So, a timely reminder that there’s only 5 months till <a href=\"https://www.runwales.com\">www.runwales.com</a> Conwy &frac12; marathon. Need to book the traditional balmy weather…</p>\n\n<p><img src=\"uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "So, a timely reminder that there’s only 5 months till [www.runwales.com](https://www.runwales.com) Conwy 1/2 marathon. Need to book the traditional balmy weather…\n\n<img src=\"uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>So, a timely reminder that there’s only 5 months till <a href=\"https://www.runwales.com\">www.runwales.com</a> Conwy &frac12; marathon. Need to book the traditional balmy weather…</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "So, a timely reminder that there’s only 5 months till [www.runwales.com](https://www.runwales.com) Conwy 1/2 marathon. Need to book the traditional balmy weather…\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d48c040542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-25T07:22:26+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/06/25/so-a-timely.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/06/22/resist-temptation-to.html",
 				
-				"content_html": "<p>Resist. Temptation. To. Climb. #tatemodern #photo #2016</p>\n\n<p><img src=\"uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Resist. Temptation. To. Climb. #tatemodern #photo #2016\n\n\n<img src=\"uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Resist. Temptation. To. Climb. #tatemodern #photo #2016</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Resist. Temptation. To. Climb. #tatemodern #photo #2016\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/4375991190.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-22T09:20:20+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/06/22/resist-temptation-to.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/06/04/it-rained-photo.html",
 				
-				"content_html": "<p>It rained. #photo #2019</p>\n\n<p><img src=\"uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It rained. #photo #2019\n\n<img src=\"uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It rained. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It rained. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/9be3e53e23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-04T20:04:59+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/06/04/it-rained-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/05/20/moon-iss-caerfai.html",
 				
-				"content_html": "<p>Moon. ISS. Caerfai Bay. #photo #2019</p>\n\n<p><img src=\"uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Moon. ISS. Caerfai Bay. #photo #2019\n\n<img src=\"uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Moon. ISS. Caerfai Bay. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Moon. ISS. Caerfai Bay. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/acca1ebb0f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-20T16:49:35+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/05/20/moon-iss-caerfai.html"
 			},
@@ -1113,8 +1121,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/05/04/a-different-kind.html",
 				
-				"content_html": "<p>A different kind of blue. #photo #2019</p>\n\n<p><img src=\"uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A different kind of blue. #photo #2019\n\n<img src=\"uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A different kind of blue. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A different kind of blue. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/4f2cd41baa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-04T22:35:52+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/05/04/a-different-kind.html"
 			},
@@ -1129,16 +1137,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/04/26/this-still-feels.html",
 				
-				"content_html": "<p>This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute &amp; light &amp; useful.</p>\n\n<p><img src=\"uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute & light & useful.\n\n\n<img src=\"uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute &amp; light &amp; useful.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This still feels like the future. Even compared to my iPhone XR. C’mon Apple. So cute & light & useful.\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/77a2f3f358.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-26T18:20:36+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/04/26/this-still-feels.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/04/26/bit-tree-photo.html",
 				
-				"content_html": "<p>bit tree #photo #2019 Courtesy of <a href=\"https://iconfactory.com/bc.html\">iconfactory.com/bc.html</a></p>\n\n<p><img src=\"uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "bit tree #photo #2019 Courtesy of [iconfactory.com/bc.html](https://iconfactory.com/bc.html)\n\n<img src=\"uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>bit tree #photo #2019 Courtesy of <a href=\"https://iconfactory.com/bc.html\">iconfactory.com/bc.html</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "bit tree #photo #2019 Courtesy of [iconfactory.com/bc.html](https://iconfactory.com/bc.html)\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a009d3c6e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-26T18:11:08+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/04/26/bit-tree-photo.html"
 			},
@@ -1169,8 +1177,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/03/16/had-a-go.html",
 				
-				"content_html": "<p>Had a go at lino printing at local treasure of a book shop ‘Book-ish’. <a href=\"http://www.book-ish.co.uk\">www.book-ish.co.uk</a></p>\n\n<p><img src=\"uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Had a go at lino printing at local treasure of a book shop ‘Book-ish’. [www.book-ish.co.uk](http://www.book-ish.co.uk)\n\n\n<img src=\"uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Had a go at lino printing at local treasure of a book shop ‘Book-ish’. <a href=\"http://www.book-ish.co.uk\">www.book-ish.co.uk</a></p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Had a go at lino printing at local treasure of a book shop ‘Book-ish’. [www.book-ish.co.uk](http://www.book-ish.co.uk)\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/99f899f55d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-16T19:03:29+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/03/16/had-a-go.html"
 			},
@@ -1185,8 +1193,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/03/05/red-photo.html",
 				
-				"content_html": "<p>Red #photo</p>\n\n<p><img src=\"uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" /></p>\n",
-				"content_text": "Red #photo\n\n<img src=\"uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" />\n",
+				"content_html": "<p>Red #photo</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" /></p>\n",
+				"content_text": "Red #photo\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/65d4edffe2.jpg\" width=\"600\" height=\"450\" alt=\"Red bowls\" />\n",
 				"date_published": "2019-03-05T10:56:28+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/03/05/red-photo.html"
 			},
@@ -1217,8 +1225,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/02/03/a-place-to.html",
 				
-				"content_html": "<p>A place to reflect #photo #2019</p>\n\n<p><img src=\"uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A place to reflect #photo #2019\n\n<img src=\"uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A place to reflect #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A place to reflect #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/d095cf396d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-02-03T11:33:57+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/02/03/a-place-to.html"
 			},
@@ -1249,16 +1257,16 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2019/01/04/still-impossibly-cute.html",
 				
-				"content_html": "<p>Still impossibly cute. After all these years.</p>\n\n<p><img src=\"uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Still impossibly cute. After all these years. \n\n<img src=\"uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Still impossibly cute. After all these years.</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Still impossibly cute. After all these years. \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/a997dfcc42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-04T17:18:00+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/01/04/still-impossibly-cute.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2019/01/02/walk-new-year.html",
 				
-				"content_html": "<p>Walk. New year. #photo #2019</p>\n\n<p><img src=\"uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Walk. New year. #photo #2019\n\n<img src=\"uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Walk. New year. #photo #2019</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Walk. New year. #photo #2019\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2019/b1b6ab35e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-02T10:13:02+01:00",
 				"url": "https://somenotes.stevelloyd.net/2019/01/02/walk-new-year.html"
 			},
@@ -1273,24 +1281,24 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/27/christmas-day-evening.html",
 				
-				"content_html": "<p>Christmas Day evening, once the cooking and eating was done, browsed this gift.\nCoincidentally, <em>Apollo 13</em> was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).</p>\n\n<p><img src=\"uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Christmas Day evening, once the cooking and eating was done, browsed this gift.\r\nCoincidentally, *Apollo 13* was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).\n\n<img src=\"uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Christmas Day evening, once the cooking and eating was done, browsed this gift.\nCoincidentally, <em>Apollo 13</em> was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Christmas Day evening, once the cooking and eating was done, browsed this gift.\r\nCoincidentally, *Apollo 13* was on TV and the AGCs featured (most in terms of the trepidation that having to switching them off to save power occasioned).\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/1339919baa.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-27T15:51:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/27/christmas-day-evening.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/25/the-sage-was.html",
 				
-				"content_html": "<p>The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone!</p>\n\n<p><img src=\"uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone! \n\n<img src=\"uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone!</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The sage was frosty this morning as I picked it to make stuffing for our meal.\nHappy Christmas and Holiday celebrations everyone! \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/f04b09d9ee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-25T11:09:55+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/25/the-sage-was.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/23/paper-photo.html",
 				
-				"content_html": "<p>Paper. #photo #2018</p>\n\n<p><img src=\"uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Paper. #photo #2018\n\n<img src=\"uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Paper. #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Paper. #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/68781ffe66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-23T21:38:52+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/23/paper-photo.html"
 			},
@@ -1305,32 +1313,32 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/20/rock-photo.html",
 				
-				"content_html": "<p>Rock. #photo #2011</p>\n\n<p><img src=\"uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rock. #photo #2011 \n\n<img src=\"uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rock. #photo #2011</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rock. #photo #2011 \n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/0ac66cd2a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-20T13:43:36+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/20/rock-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/18/i-think-mum.html",
 				
-				"content_html": "<p>I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.</p>\n\n<p>Tech assembled with:\n- Raspberry Pi Zero, <a href=\"https://learn.pimoroni.com/tutorial/sandyj/firefly-light\">Pimoroni blog post</a> ,  <a href=\"https://github.com/nfarina/homebridge\">Homebridge</a>, a tiny <a href=\"http://flask.pocoo.org\">Flask</a> app</p>\n\n<p>from flask import Flask</p>\n\n<p>import explorerhat as eh</p>\n\n<p>app = Flask(<strong>name</strong>)</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/on&rsquo;)\ndef on():\n    eh.motor.two.forwards(50)\n    return &lsquo;ON&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/off&rsquo;)\ndef off():\n    eh.motor.two.forwards(0)\n    return &lsquo;OFF&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/brightness/<level>&rsquo;)\ndef brightness(level):\n    eh.motor.two.forwards(int(level) / 2)\n    return &lsquo;Level %s&rsquo; % level</p>\n\n<p><img src=\"uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\r\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.\r\n\r\nTech assembled with:\r\n- Raspberry Pi Zero, [Pimoroni blog post](https://learn.pimoroni.com/tutorial/sandyj/firefly-light) ,  [Homebridge](https://github.com/nfarina/homebridge), a tiny [Flask](http://flask.pocoo.org) app\r\n\r\nfrom flask import Flask\r\n\r\nimport explorerhat as eh\r\n\r\napp = Flask(__name__)\r\n\r\n[@app](https://micro.blog/app)('/on')\r\ndef on():\r\n    eh.motor.two.forwards(50)\r\n    return 'ON'\r\n\r\n[@app](https://micro.blog/app)('/off')\r\ndef off():\r\n    eh.motor.two.forwards(0)\r\n    return 'OFF'\r\n\r\n[@app](https://micro.blog/app)('/brightness/<level>')\r\ndef brightness(level):\r\n    eh.motor.two.forwards(int(level) / 2)\r\n    return 'Level %s' % level\r\n\n\n<img src=\"uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.</p>\n\n<p>Tech assembled with:\n- Raspberry Pi Zero, <a href=\"https://learn.pimoroni.com/tutorial/sandyj/firefly-light\">Pimoroni blog post</a> ,  <a href=\"https://github.com/nfarina/homebridge\">Homebridge</a>, a tiny <a href=\"http://flask.pocoo.org\">Flask</a> app</p>\n\n<p>from flask import Flask</p>\n\n<p>import explorerhat as eh</p>\n\n<p>app = Flask(<strong>name</strong>)</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/on&rsquo;)\ndef on():\n    eh.motor.two.forwards(50)\n    return &lsquo;ON&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/off&rsquo;)\ndef off():\n    eh.motor.two.forwards(0)\n    return &lsquo;OFF&rsquo;</p>\n\n<p><a href=\"https://micro.blog/app\">@app</a>(&lsquo;/brightness/<level>&rsquo;)\ndef brightness(level):\n    eh.motor.two.forwards(int(level) / 2)\n    return &lsquo;Level %s&rsquo; % level</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "I think mum would have been fascinated that the Christmas tree lights are HomeKit-enabled.\r\nBut equally, happy that as ever we have the star from a Nepal market in pride of place.\r\n\r\nTech assembled with:\r\n- Raspberry Pi Zero, [Pimoroni blog post](https://learn.pimoroni.com/tutorial/sandyj/firefly-light) ,  [Homebridge](https://github.com/nfarina/homebridge), a tiny [Flask](http://flask.pocoo.org) app\r\n\r\nfrom flask import Flask\r\n\r\nimport explorerhat as eh\r\n\r\napp = Flask(__name__)\r\n\r\n[@app](https://micro.blog/app)('/on')\r\ndef on():\r\n    eh.motor.two.forwards(50)\r\n    return 'ON'\r\n\r\n[@app](https://micro.blog/app)('/off')\r\ndef off():\r\n    eh.motor.two.forwards(0)\r\n    return 'OFF'\r\n\r\n[@app](https://micro.blog/app)('/brightness/<level>')\r\ndef brightness(level):\r\n    eh.motor.two.forwards(int(level) / 2)\r\n    return 'Level %s' % level\r\n\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/92f1268236.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2018-12-18T17:34:09+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/18/i-think-mum.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/13/up-photo.html",
 				
-				"content_html": "<p>Up #photo #2018</p>\n\n<p><img src=\"uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Up #photo #2018\n\n<img src=\"uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Up #photo #2018</p>\n\n<p><img src=\"https://somenotes.stevelloyd.net/uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Up #photo #2018\n\n<img src=\"https://somenotes.stevelloyd.net/uploads/2018/609edcf5e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-13T09:32:58+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/13/up-photo.html"
 			},
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/12/yellow-photo.html",
 				
-				"content_html": "<p>Yellow. #photo</p>\n\n<p><img src=\"uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Yellow. #photo \n\n<img src=\"uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Yellow. #photo</p>\n\n<p><img src=\"http://somenotes.stevelloyd.net/uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yellow. #photo \n\n<img src=\"http://somenotes.stevelloyd.net/uploads/2018/1cbdeabf5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-12T14:01:44+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/12/yellow-photo.html"
 			},
@@ -1345,8 +1353,8 @@
 			{
 				"id": "http://stevelloyd.micro.blog/2018/12/11/grey-photo.html",
 				
-				"content_html": "<p>Grey #photo #2018</p>\n\n<p><img src=\"uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Grey #photo #2018\n\n<img src=\"uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Grey #photo #2018</p>\n\n<p><img src=\"http://somenotes.stevelloyd.net/uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Grey #photo #2018\n\n<img src=\"http://somenotes.stevelloyd.net/uploads/2018/9bc27cf542.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-11T16:56:52+01:00",
 				"url": "https://somenotes.stevelloyd.net/2018/12/11/grey-photo.html"
 			}
