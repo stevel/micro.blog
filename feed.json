@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://stevelloyd.micro.blog/2022/07/10/hay-castle.html",
+				
+				"content_html": "<p>Hay Castle. 📷 #2022</p>\n\n<p><img src=\"uploads/2022/87a0f4b9e8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hay Castle. 📷 #2022\n\n<img src=\"uploads/2022/87a0f4b9e8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-10T08:26:24+01:00",
+				"url": "https://somenotes.stevelloyd.net/2022/07/10/hay-castle.html"
+			},
+			{
+				"id": "http://stevelloyd.micro.blog/2022/07/01/the-kengo-kuma.html",
+				
+				"content_html": "<p>The Kengo Kuma Monologue: My Principles of Architecture  <a href=\"https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004746/\">www3.nhk.or.jp/nhkworld/&hellip;</a></p>\n\n<p>Such an interesting body of work. Humane.</p>\n\n<p><img src=\"uploads/2022/ca20c478b4.jpg\" width=\"600\" height=\"450\" alt=\"Architectural detail of Nezu Museum, Japan\" /></p>\n",
+				"content_text": "The Kengo Kuma Monologue: My Principles of Architecture  [www3.nhk.or.jp/nhkworld/...](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004746/)\n\nSuch an interesting body of work. Humane.\n\n\n\n<img src=\"uploads/2022/ca20c478b4.jpg\" width=\"600\" height=\"450\" alt=\"Architectural detail of Nezu Museum, Japan\" />\n",
+				"date_published": "2022-07-01T22:52:17+01:00",
+				"url": "https://somenotes.stevelloyd.net/2022/07/01/the-kengo-kuma.html"
+			},
+			{
 				"id": "http://stevelloyd.micro.blog/2022/06/25/promise.html",
 				
 				"content_html": "<p>Promise. 📷 #2022.</p>\n\n<p><img src=\"uploads/2022/6d13e3d023.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
